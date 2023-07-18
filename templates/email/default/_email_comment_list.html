@@ -1,0 +1,18 @@
+[% FOR update IN data %]
+    <div style="[% list_item_style %]">
+    [%~ IF update.item_photo %]
+      <a href="[% problem_url %]">
+        <img style="[% list_item_photo_style %]" src="[% inline_image(update.get_first_image_fp) %]" alt="">
+      </a>
+    [%~ END %]
+      [% email_sanitize_html(update) | replace('<p>', '<p style="' _ list_item_p_style _ '">') %]
+      <p class="user-name" style="[% list_item_date_style %]">
+        [%~ IF update.item_anonymous %]
+          [%~ loc('Posted anonymously') -%]
+        [%~ ELSE %]
+          [%~ update.item_name | html IF update.item_name -%]
+        [%~ END %]
+        [% '(' _ cobrand.prettify_dt(update.confirmed) _ ') ' IF cobrand.include_time_in_update_alerts -%]
+      </p>
+    </div>
+[% END %]

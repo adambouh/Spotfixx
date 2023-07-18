@@ -1,0 +1,155 @@
+/* COLOURS */
+
+$johnston-black: #627a08;
+$beck-blue: #00510b;
+$dark: #2D3039;
+$grey90: #637282;
+$grey70: #86909E;
+$grey50: #C1C8D2;
+$grey30: #E1E4E8;
+$grey10: #F2F4F5;
+$grey5: #F7F9FA;
+$white: #FFFFFF;
+
+$yellow: #e91717;
+$yellow-light: #FDEBCE;
+$blue-light: #F2F4FF;
+$blue-dark: #00510b;
+$turquoise: #ff9a16;
+$green: #00A95D;
+$red-light: #FBE9E8;
+$red: #DC241F;
+
+$mappage-header-height: 60px;
+
+$body-font: Johnston100-Light, Arial, Helvetica, sans-serif;
+$meta-font: Johnston100-Light, Arial, Helvetica, sans-serif;
+$heading-font: Johnston100-Regular, Arial, Helvetica, sans-serif;
+$bold-font: Johnston100-Medium, Arial, Helvetica, sans-serif;
+
+/* Primary is white on bluey */
+$primary: $beck-blue;
+$primary_b: $johnston-black;
+$primary_text: $johnston-black;
+
+$link-color: $beck-blue;
+$link-text-decoration: 'underline';
+$link-hover-color: $blue-dark;
+
+$base_bg: $white;
+$base_fg: $johnston-black;
+
+$map_nav_bg: $johnston-black;
+$nav_fg: $white;
+$nav_fg_hover: $primary;
+
+$col_click_map: $beck-blue;
+
+$col_fixed_label: #00BD08;
+$col_fixed_label_dark: #4B8304;
+
+$header-top-border: false;
+
+$search-help-alignment: left;
+$search-help-background: $red-light;
+$search-help-header-background: $red;
+$search-help-margin-desktop: -1em -1em 0em -1em;
+
+$dropzone-button-text: $white;
+
+@mixin tflbutton {
+  background: $beck-blue;
+  border-radius: 22.5px;
+  font-family: $heading-font;
+  padding: 0.7em 2em;
+  display: inline-block;
+  border: 0;
+  color: $white !important;
+  &:hover,
+  &:active,
+  &:focus {
+    background: transparent; 
+    background-color: $blue-dark;
+    color: $white !important;
+  }
+}
+
+@mixin tflfield {
+  border: 1px solid $dark;
+  border-radius: 2px;
+  font-family: $body-font;
+  background-color: $white;
+  box-shadow: none;
+  padding: 0.4em;
+}
+.sidenav {
+  height: 100%; /* 100% Full-height */
+  width: 0; /* 0 width - change this with JavaScript */
+  position: fixed; /* Stay in place */
+  z-index: 2; /* Stay on top */
+  top: 0; /* Stay at the top */
+  left: 0;
+  background-color: #f1f5f3; /* Black*/
+  overflow-x: hidden; /* Disable horizontal scroll */
+  padding-top: 60px; /* Place content 60px from the top */
+  transition: 0.5s; /* 0.5 second transition effect to slide in the sidenav */
+}
+.sidenav  ul a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #00510b;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav  ul span{
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #00510b;
+  display: block;
+  transition: 0.3s;
+}
+//.sidenav  ul :before { content: '<br>'; }
+.sidenav ul a:hover {
+  color: #00510b;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+#front_stats {
+  color: #00A80B;
+}
+#front-main #postcodeForm div input#sub {
+  background: #00510b
+}
+.report-a-problem-btn{
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+
+}
+.nav-wrapper{
+padding-left:30px;
+padding-top:8px;
+}
+
+/* layout.css | http://localhost:3000/cobrands/mine/layout.css?4a4aab0c10c2 */
+
+#front-main h2 {
+  /* color: inherit; */
+  color: #0b3502;
+}

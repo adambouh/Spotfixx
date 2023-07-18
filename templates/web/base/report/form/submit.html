@@ -1,0 +1,28 @@
+<style>
+    /* Show the desktop button on desktop devices */
+    .desk-only {
+      display: block;
+    }
+  
+    /* Hide the desktop button on mobile devices */
+    @media only screen and (max-width: 767px) {
+      .desk-only {
+        display: none;
+      }
+    }
+  
+    /* Show the mobile button on mobile devices */
+    .mob-only {
+      display: none;
+    }
+  
+    /* Hide the mobile button on desktop devices */
+    @media only screen and (max-width: 767px) {
+      .mob-only {
+        display: block;
+      }
+    }
+  </style>
+  
+  <input class="desk-only btn btn--primary btn--block btn--final js-submit_register" type="submit" name="submit_register" value="[% loc('Submit') %]">
+  <input class="mob-only btn btn--primary btn--block btn--final js-submit_register" type="submit" name="submit_register_mobile" value="[% loc('Submit') %]">

@@ -1,0 +1,41 @@
+#!/usr/bin/env perl
+
+# send-alerts:
+# Email alerts for FixMyStreet
+#
+# Copyright (c) 2007 UK Citizens Online Democracy. All rights reserved.
+# Email: matthew@mysociety.org. WWW: http://www.mysociety.org
+
+use strict;
+use warnings;
+require 5.8.0;
+
+BEGIN {
+    use File::Basename qw(dirname);
+    use File::Spec;
+    my $d = dirname(File::Spec->rel2abs($0));
+    require "$d/../setenv.pl";
+}
+
+use Getopt::Long::Descriptive;
+use CronFns;
+
+use FixMyStreet;
+use FixMyStreet::Script::Alerts;
+
+my $site = CronFns::site(FixMyStreet->config('BASE_URL'));
+CronFns::language($site);
+
+my ($opts, $usage) = describe_options(
+    '%c %o - if no subgroup picked, all will be sent',
+    ['updates|u', 'send report update alerts'],
+    ['local|l', 'send non-radius-based local alerts'],
+    ['radius|r', 'send radius-based local alerts'],
+    ['help|h', "print usage message and exit" ],
+);
+$usage->die if $opts->help;
+
+my $any = $opts->updates || $opts->local || $opts->radius;
+FixMyStreet::Script::Alerts::send_updates() if $opts->updates || !$any;
+FixMyStreet::Script::Alerts::send_other() if $opts->local || !$any;
+FixMyStreet::Script::Alerts::send_local() if $opts->radius || !$any;

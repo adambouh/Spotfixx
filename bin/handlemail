@@ -1,0 +1,42 @@
+#!/usr/bin/env perl
+#
+# handlemail:
+# Handle an individual incoming mail message.
+#
+# This script should be invoked through the .forward mechanism. It
+# processes bounce messages and replies and deals with them accordingly.
+
+use v5.14;
+use warnings;
+
+BEGIN {
+    use File::Basename qw(dirname);
+    use File::Spec;
+    my $d = dirname(File::Spec->rel2abs($0));
+    require "$d/../setenv.pl";
+}
+
+use Getopt::Long;
+use FixMyStreet::Email::Incoming;
+use mySociety::SystemMisc qw(print_log);
+
+# Don't print diagnostics to standard error, as this can result in bounce
+# messages being generated (only in response to non-bounce input, obviously).
+mySociety::SystemMisc::log_to_stderr(0);
+
+my $cobrand;
+
+# Where to forward mail that should be looked at by a person,
+# such as a permanent bounce for a report.
+my $bouncemgr = FixMyStreet->config('CONTACT_EMAIL');
+
+GetOptions ("cobrand=s" => \$cobrand,
+            "bouncemgr=s" => \$bouncemgr);
+
+my $incoming = FixMyStreet::Email::Incoming->new({
+    cobrand => $cobrand,
+    bouncemgr => $bouncemgr,
+});
+$incoming->process;
+
+exit(0);

@@ -1,0 +1,133 @@
+@import "_colours";
+@import "../sass/layout";
+
+#site-logo {
+    width: 240px;
+    height: 60px;
+    background-size: 240px 60px;
+}
+
+#site-header {
+    padding: 2em 0;
+}
+
+.content {
+    padding: 0; // no need for padding, as content background colour matches body background (white)
+    margin: 2em 0; // reinstate vertical spacing, now that padding has gone
+}
+
+.nav-menu--main {
+    li + li {
+        margin-left: 1.5em;
+    }
+
+    a, span {
+        padding: 0;
+        font-size: 1.125em;
+        color: $nav_colour;
+    }
+
+    span, span:hover, span.report-a-problem-btn:hover {
+        color: $color-societyworks-pink;
+    }
+
+    a {
+        &:hover,
+        &:focus {
+            color: $nav_colour;
+            box-shadow: 0 3px 0 0 $color-societyworks-pink;
+        }
+    }
+
+    a.report-a-problem-btn {
+        color: $nav_colour;
+        background-color: transparent;
+        padding: 0;
+        margin: 0;
+        border-radius: 0;
+
+        &:hover, &:focus {
+            background-color: transparent;
+        }
+    }
+}
+
+#front-main {
+    background: $primary;
+    color: inherit;
+    padding: 5% 1em;
+
+    #postcodeForm {
+        overflow: visible;
+
+        div {
+            margin: 0;
+            width: 100%;
+            max-width: 30em;
+        }
+    }
+
+    h1 {
+        font-size: 3em;
+    }
+}
+
+body.authpage {
+    .content {
+        width: auto;
+        max-width: 30em;
+    }
+
+    input {
+        max-width: none;
+    }
+}
+
+#demo-user-list {
+    li {
+        @include clearfix();
+    }
+
+    button {
+        float: left;
+        width: 40%;
+    }
+
+    span {
+        float: right;
+        width: 55%;
+        margin-top: 0;
+    }
+}
+
+body.twothirdswidthpage .content {
+    position: static;
+    background: transparent;
+
+    aside {
+        background: transparent;
+        padding: 0;
+    }
+
+    .sticky-sidebar {
+        left: 43em;
+        right: 0;
+        top: 0;
+        bottom: 0;
+        margin: 0;
+        padding: 1em;
+
+        @media (max-width: 61em) {
+            left: 33em;
+        }
+
+        aside {
+            position: sticky;
+            width: auto;
+            max-width: 20em;
+            margin-left: auto;
+            top: 2em;
+            bottom: 2em;
+        }
+    }
+}

@@ -1,0 +1,2117 @@
+> Subject: Your FixMyStreet account details
+> Message-ID: <fms-1684864772-0347323a02@example.org>
+> Date: Tue, 23 May 2023 18:59:32 +0100
+> To: adam.report1@gmail.com
+> From: FixMyStreet <do-not-reply@example.org>
+> MIME-Version: 1.0
+> Content-Type: multipart/related; boundary="16848647721.4F8e9B9A.34728"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16848647721.4F8e9B9A.34728
+> Content-Type: multipart/alternative; boundary="16848647720.0d2AFbC.34728"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16848647720.0d2AFbC.34728
+> Content-Type: text/plain; charset="utf-8"
+> Content-Transfer-Encoding: quoted-printable
+> 
+> Please click on the link below to confirm your email address.
+> 
+> http://localhost:3000/M/Cvj959Au4kNUEuHBaj
+> 
+> Once you've done this, you'll be able to view and manage all reports and up=
+> dates you've made on FixMyStreet.
+> 
+> All the best,
+> 
+> The FixMyStreet team
+> 
+> This email was sent automatically, from an unmonitored email account - so p=
+
+> Date: Tue, 23 May 2023 22:35:44 +0100
+> From: SpotFix <do-not-reply@example.org>
+> To: adam <adambouhnidira@gmail.com>
+> Subject: Confirm your report on FixMyStreet
+> Message-ID: <fms-1684877744-7bc8623f8a@spotfix.org>
+> MIME-Version: 1.0
+> Content-Type: multipart/related; boundary="16848777441.439422c.36991"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16848777441.439422c.36991
+> Content-Type: multipart/alternative; boundary="16848777440.3A8B59.36991"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16848777440.3A8B59.36991
+> Content-Type: text/plain; charset="utf-8"
+> Content-Transfer-Encoding: quoted-printable
+> 
+> Hello adam,
+> 
+> Please click on the link below to confirm that you want to send your report=
+>  to facult=C3=A9 medecine . Note that your report will also appear on the F=
+> ixMyStreet website.
+> 
+> http://localhost:3000/P/BNXSmWGtPfvQCpSzWC
+> 
+> If your email program does not let you click on this link, copy and paste i=
+> t into your web browser and press return.
+> 
+> Your problem had the title:
+> 
+> Un probleme
+> 
+> And details:
+> 
+> Les details de ce probleme
+> 
+> If you no longer wish to send this report, please take no further action.
+> 
+> Thank you for submitting a report through FixMyStreet.
+> 
+> All the best,
+> 
+> The FixMyStreet team
+> 
+> This email was sent automatically, from an unmonitored email account - so p=
+
+> To: adambouhni@gmail.com
+> Subject: Your FixMyStreet account details
+> From: SpotFix <team@spotfix.org>
+> Message-ID: <fms-1684887584-d44c1f316b@spotfix.org>
+> Date: Wed, 24 May 2023 01:19:44 +0100
+> MIME-Version: 1.0
+> Content-Type: multipart/related; boundary="16848875841.678Da.53566"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16848875841.678Da.53566
+> Content-Type: multipart/alternative; boundary="16848875840.7bf37.53566"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16848875840.7bf37.53566
+> Content-Type: text/plain; charset="utf-8"
+> Content-Transfer-Encoding: quoted-printable
+> 
+> Please click on the link below to confirm your email address.
+> 
+> http://localhost:3000/M/GyoUt2DECMMwFWiXMn
+> 
+> Once you've done this, you'll be able to view and manage all reports and up=
+> dates you've made on FixMyStreet.
+> 
+> All the best,
+> 
+> The FixMyStreet team
+> 
+> This email was sent automatically, from an unmonitored email account - so p=
+
+> Subject: Your FixMyStreet account details
+> From: SpotFix <team@spotfix.org>
+> Message-ID: <fms-1684889065-d35016fdb3@spotfix.org>
+> To: adambouhni@gmail.com
+> Date: Wed, 24 May 2023 01:44:25 +0100
+> MIME-Version: 1.0
+> Content-Type: multipart/related; boundary="16848890651.7DdaC.4724"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16848890651.7DdaC.4724
+> Content-Type: multipart/alternative; boundary="16848890650.DAc74.4724"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16848890650.DAc74.4724
+> Content-Type: text/plain; charset="utf-8"
+> Content-Transfer-Encoding: quoted-printable
+> 
+> Please click on the link below to confirm your email address.
+> 
+> http://localhost:3000/M/BnAbHTEzGw8jAZ3MSC
+> 
+> Once you've done this, you'll be able to view and manage all reports and up=
+> dates you've made on FixMyStreet.
+> 
+> All the best,
+> 
+> The FixMyStreet team
+> 
+> This email was sent automatically, from an unmonitored email account - so p=
+
+> From: SpotFix <team@spotfix.org>
+> Date: Wed, 24 May 2023 18:46:50 +0100
+> Message-ID: <fms-1684950410-4dbc34b869@spotfix.org>
+> Subject: Your FixMyStreet account details
+> To: adam.report1@gmail.com
+> MIME-Version: 1.0
+> Content-Type: multipart/related; boundary="16849504101.9A85d3FB5.4723"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16849504101.9A85d3FB5.4723
+> Content-Type: multipart/alternative; boundary="16849504100.36e01CfD1.4723"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16849504100.36e01CfD1.4723
+> Content-Type: text/plain; charset="utf-8"
+> Content-Transfer-Encoding: quoted-printable
+> 
+> Please click on the link below to confirm your email address.
+> 
+> http://127.0.0.1:3000/M/Co6LedCssgAYEkXjvB
+> 
+> Once you've done this, you'll be able to view and manage all reports and up=
+> dates you've made on FixMyStreet.
+> 
+> All the best,
+> 
+> The FixMyStreet team
+> 
+> This email was sent automatically, from an unmonitored email account - so p=
+
+> Date: Wed, 24 May 2023 18:53:34 +0100
+> From: SpotFix <team@spotfix.org>
+> Subject: Your FixMyStreet account details
+> Message-ID: <fms-1684950814-1bcf956e76@spotfix.org>
+> To: adambouhnidira@gmail.com
+> MIME-Version: 1.0
+> Content-Type: multipart/related; boundary="16849508141.057bb50.4723"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16849508141.057bb50.4723
+> Content-Type: multipart/alternative; boundary="16849508140.f0Fff1.4723"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16849508140.f0Fff1.4723
+> Content-Type: text/plain; charset="utf-8"
+> Content-Transfer-Encoding: quoted-printable
+> 
+> Please click on the link below to confirm your email address.
+> 
+> http://127.0.0.1:3000/M/D8NQSSBvv8ZeFAq7oa
+> 
+> Once you've done this, you'll be able to view and manage all reports and up=
+> dates you've made on FixMyStreet.
+> 
+> All the best,
+> 
+> The FixMyStreet team
+> 
+> This email was sent automatically, from an unmonitored email account - so p=
+
+> To: adam.report1@gmail.com
+> Message-ID: <fms-1684955681-7ff79f6eef@spotfix.org>
+> Date: Wed, 24 May 2023 20:14:41 +0100
+> From: SpotFix <team@spotfix.org>
+> Subject: Your FixMyStreet account details
+> MIME-Version: 1.0
+> Content-Type: multipart/related; boundary="16849556811.9bB9ad.19016"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16849556811.9bB9ad.19016
+> Content-Type: multipart/alternative; boundary="16849556810.d4cCFC0fA.19016"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16849556810.d4cCFC0fA.19016
+> Content-Type: text/plain; charset="utf-8"
+> Content-Transfer-Encoding: quoted-printable
+> 
+> Please click on the link below to confirm your email address.
+> 
+> http://127.0.0.1:3000/M/EiyrjzC76tJAAUy7Tp
+> 
+> Once you've done this, you'll be able to view and manage all reports and up=
+> dates you've made on FixMyStreet.
+> 
+> All the best,
+> 
+> The FixMyStreet team
+> 
+> This email was sent automatically, from an unmonitored email account - so p=
+
+> To: adam.bouhnidira@usmba.ac.ma
+> From: SpotFix <team@spotfix.org>
+> Date: Fri, 26 May 2023 12:41:41 +0100
+> Message-ID: <fms-1685101301-2227ff09bf@spotfix.org>
+> Subject: Your FixMyStreet account details
+> MIME-Version: 1.0
+> Content-Type: multipart/related; boundary="16851013011.f33AB1.5761"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16851013011.f33AB1.5761
+> Content-Type: multipart/alternative; boundary="16851013010.f8c4d5DA8.5761"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16851013010.f8c4d5DA8.5761
+> Content-Type: text/plain; charset="utf-8"
+> Content-Transfer-Encoding: quoted-printable
+> 
+> Please click on the link below to confirm your email address.
+> 
+> http://localhost:3000/M/BzLAkXAJQkC4E26DNY
+> 
+> Once you've done this, you'll be able to view and manage all reports and up=
+> dates you've made on FixMyStreet.
+> 
+> All the best,
+> 
+> The FixMyStreet team
+> 
+> This email was sent automatically, from an unmonitored email account - so p=
+
+> To: adam.report1@gmail.com
+> From: SpotFix <team@spotfix.org>
+> Message-ID: <fms-1685101562-5d40a66d97@spotfix.org>
+> Subject: Your FixMyStreet account details
+> Date: Fri, 26 May 2023 12:46:02 +0100
+> MIME-Version: 1.0
+> Content-Type: multipart/related; boundary="16851015621.FBBb3FC85.5761"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16851015621.FBBb3FC85.5761
+> Content-Type: multipart/alternative; boundary="16851015620.aC55a.5761"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16851015620.aC55a.5761
+> Content-Type: text/plain; charset="utf-8"
+> Content-Transfer-Encoding: quoted-printable
+> 
+> Please click on the link below to confirm your email address.
+> 
+> http://localhost:3000/M/D28oMWEPZQs5E7rKon
+> 
+> Once you've done this, you'll be able to view and manage all reports and up=
+> dates you've made on FixMyStreet.
+> 
+> All the best,
+> 
+> The FixMyStreet team
+> 
+> This email was sent automatically, from an unmonitored email account - so p=
+
+> From: SpotFix <team@spotfix.org>
+> To: adambouhnidira@gmail.com
+> Subject: Your FixMyStreet account details
+> Message-ID: <fms-1685102282-ff19eb9a1c@spotfix.org>
+> Date: Fri, 26 May 2023 12:58:02 +0100
+> MIME-Version: 1.0
+> Content-Type: multipart/related; boundary="16851022821.0e2b.5761"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16851022821.0e2b.5761
+> Content-Type: multipart/alternative; boundary="16851022820.Cc34e04E.5761"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16851022820.Cc34e04E.5761
+> Content-Type: text/plain; charset="utf-8"
+> Content-Transfer-Encoding: quoted-printable
+> 
+> Please click on the link below to confirm your email address.
+> 
+> http://localhost:3000/M/DbiQGhBuYFjdD9MnkA
+> 
+> Once you've done this, you'll be able to view and manage all reports and up=
+> dates you've made on FixMyStreet.
+> 
+> All the best,
+> 
+> The FixMyStreet team
+> 
+> This email was sent automatically, from an unmonitored email account - so p=
+
+> From: SpotFix <team@spotfix.org>
+> Message-ID: <fms-1685118655-d42a64c90d@spotfix.org>
+> Date: Fri, 26 May 2023 17:30:55 +0100
+> Subject: Your FixMyStreet account details
+> To: adam.report1@gmail.com
+> MIME-Version: 1.0
+> Content-Type: multipart/related; boundary="16851186551.517b4.6100"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16851186551.517b4.6100
+> Content-Type: multipart/alternative; boundary="16851186550.E1fbca9BD.6100"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16851186550.E1fbca9BD.6100
+> Content-Type: text/plain; charset="utf-8"
+> Content-Transfer-Encoding: quoted-printable
+> 
+> Please click on the link below to confirm your email address.
+> 
+> http://192.168.137.73:3000/M/BavqL3E9xdnCAw2bMx
+> 
+> Once you've done this, you'll be able to view and manage all reports and up=
+> dates you've made on FixMyStreet.
+> 
+> All the best,
+> 
+> The FixMyStreet team
+> 
+> This email was sent automatically, from an unmonitored email account - so p=
+
+> Message-ID: <fms-1685119021-17566a174c@spotfix.org>
+> From: SpotFix <team@spotfix.org>
+> Date: Fri, 26 May 2023 17:37:01 +0100
+> Subject: Your FixMyStreet account details
+> To: qqweretzgh@gmail.com
+> MIME-Version: 1.0
+> Content-Type: multipart/related; boundary="16851190211.DfaD98E38.6102"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16851190211.DfaD98E38.6102
+> Content-Type: multipart/alternative; boundary="16851190210.167c6Cb2E.6102"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16851190210.167c6Cb2E.6102
+> Content-Type: text/plain; charset="utf-8"
+> Content-Transfer-Encoding: quoted-printable
+> 
+> Please click on the link below to confirm your email address.
+> 
+> http://192.168.137.73:3000/M/GLSKVxCZiqMKFqg2KZ
+> 
+> Once you've done this, you'll be able to view and manage all reports and up=
+> dates you've made on FixMyStreet.
+> 
+> All the best,
+> 
+> The FixMyStreet team
+> 
+> This email was sent automatically, from an unmonitored email account - so p=
+
+> From: SpotFix <team@spotfix.org>
+> Message-ID: <fms-1685119331-75e046fd4e@spotfix.org>
+> Date: Fri, 26 May 2023 17:42:11 +0100
+> Subject: Confirm your report on FixMyStreet
+> To: Adam <adamb@gmail.com>
+> MIME-Version: 1.0
+> Content-Type: multipart/related; boundary="16851193311.a8DDABCE4.6098"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16851193311.a8DDABCE4.6098
+> Content-Type: multipart/alternative; boundary="16851193310.e5b6f8.6098"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16851193310.e5b6f8.6098
+> Content-Type: text/plain; charset="utf-8"
+> Content-Transfer-Encoding: quoted-printable
+> 
+> Hello Adam,
+> 
+> Please click on the link below to confirm that you want to send your report=
+>  to facult=C3=A9 medecine . Note that your report will also appear on the F=
+> ixMyStreet website.
+> 
+> http://192.168.137.73:3000/P/A2TgYxEn57fMAgFfJD
+> 
+> If your email program does not let you click on this link, copy and paste i=
+> t into your web browser and press return.
+> 
+> Your problem had the title:
+> 
+> Le probleme
+> 
+> And details:
+> 
+> Description
+> 
+> If you no longer wish to send this report, please take no further action.
+> 
+> Thank you for submitting a report through FixMyStreet.
+> 
+> All the best,
+> 
+> The FixMyStreet team
+> 
+> This email was sent automatically, from an unmonitored email account - so p=
+
+> Subject: Your FixMyStreet account details
+> Date: Fri, 26 May 2023 17:45:48 +0100
+> To: adam.report1@gmail.com
+> From: SpotFix <team@spotfix.org>
+> Message-ID: <fms-1685119548-b2f002763c@spotfix.org>
+> MIME-Version: 1.0
+> Content-Type: multipart/related; boundary="16851195481.CB2Edc.6100"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16851195481.CB2Edc.6100
+> Content-Type: multipart/alternative; boundary="16851195480.0A6bFBe0.6100"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16851195480.0A6bFBe0.6100
+> Content-Type: text/plain; charset="utf-8"
+> Content-Transfer-Encoding: quoted-printable
+> 
+> Please click on the link below to confirm your email address.
+> 
+> http://192.168.137.73:3000/M/F3cegiAFQ6SCHAryAY
+> 
+> Once you've done this, you'll be able to view and manage all reports and up=
+> dates you've made on FixMyStreet.
+> 
+> All the best,
+> 
+> The FixMyStreet team
+> 
+> This email was sent automatically, from an unmonitored email account - so p=
+
+> From: SpotFix <team@spotfix.org>
+> Subject: Your Spotfix account details
+> Date: Mon, 29 May 2023 22:06:29 +0100
+> Message-ID: <fms-1685394389-e376513947@spotfix.org>
+> To: i@gmail.com
+> MIME-Version: 1.0
+> Content-Type: multipart/related; boundary="16853943891.A3F78.28825"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16853943891.A3F78.28825
+> Content-Type: multipart/alternative; boundary="16853943890.Ee4b1.28825"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16853943890.Ee4b1.28825
+> Content-Type: text/plain; charset="utf-8"
+> Content-Transfer-Encoding: quoted-printable
+> 
+> Please click on the link below to confirm your email address.
+> 
+> http://localhost:3000/M/CFu6QUB9s74FCbEYyD
+> 
+> Once you've done this, you'll be able to view and manage all reports and up=
+> dates you've made on Spotfix.
+> 
+> All the best,
+> 
+> The Spotfix team
+> 
+> This email was sent automatically, from an unmonitored email account - so p=
+
+> From: SpotFix <team@spotfix.org>
+> Subject: Your Spotfix account details
+> Date: Mon, 29 May 2023 22:07:55 +0100
+> To: hni@gmail.com
+> Message-ID: <fms-1685394475-9c7940a31a@spotfix.org>
+> MIME-Version: 1.0
+> Content-Type: multipart/related; boundary="16853944751.F0291b8.28827"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16853944751.F0291b8.28827
+> Content-Type: multipart/alternative; boundary="16853944750.2Ad0D6b.28827"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16853944750.2Ad0D6b.28827
+> Content-Type: text/plain; charset="utf-8"
+> Content-Transfer-Encoding: quoted-printable
+> 
+> Please click on the link below to confirm your email address.
+> 
+> http://localhost:3000/M/Bz9j8BGKWCKNGh4gD6
+> 
+> Once you've done this, you'll be able to view and manage all reports and up=
+> dates you've made on Spotfix.
+> 
+> All the best,
+> 
+> The Spotfix team
+> 
+> This email was sent automatically, from an unmonitored email account - so p=
+
+> Subject: Your Spotfix account details
+> To: adambouhni@gmail.com
+> Date: Tue, 30 May 2023 02:08:33 +0100
+> From: SpotFix <team@spotfix.org>
+> Message-ID: <fms-1685408913-b3d1902ef4@spotfix.org>
+> MIME-Version: 1.0
+> Content-Type: multipart/related; boundary="16854089131.2a0cf7.4527"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16854089131.2a0cf7.4527
+> Content-Type: multipart/alternative; boundary="16854089130.Aebd.4527"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16854089130.Aebd.4527
+> Content-Type: text/plain; charset="utf-8"
+> Content-Transfer-Encoding: quoted-printable
+> 
+> Please click on the link below to confirm your email address.
+> 
+> http://localhost:3000/M/GgiyAxDwBaqyByxhWB
+> 
+> Once you've done this, you'll be able to view and manage all reports and up=
+> dates you've made on Spotfix.
+> 
+> All the best,
+> 
+> The Spotfix team
+> 
+> This email was sent automatically, from an unmonitored email account - so p=
+
+> Message-ID: <fms-1685408932-18048a8273@spotfix.org>
+> From: SpotFix <team@spotfix.org>
+> To: adam.report1@gmail.com
+> Subject: Your Spotfix account details
+> Date: Tue, 30 May 2023 02:08:52 +0100
+> MIME-Version: 1.0
+> Content-Type: multipart/related; boundary="16854089321.6e2c.4524"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16854089321.6e2c.4524
+> Content-Type: multipart/alternative; boundary="16854089320.82E5bF4FB.4524"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16854089320.82E5bF4FB.4524
+> Content-Type: text/plain; charset="utf-8"
+> Content-Transfer-Encoding: quoted-printable
+> 
+> Please click on the link below to confirm your email address.
+> 
+> http://localhost:3000/M/FdLDT6Dog8JfDohHRN
+> 
+> Once you've done this, you'll be able to view and manage all reports and up=
+> dates you've made on Spotfix.
+> 
+> All the best,
+> 
+> The Spotfix team
+> 
+> This email was sent automatically, from an unmonitored email account - so p=
+
+> To: adambouhnidira@gmail.com
+> Subject: Your Spotfix account details
+> Date: Tue, 30 May 2023 02:09:21 +0100
+> From: SpotFix <team@spotfix.org>
+> Message-ID: <fms-1685408961-f5bbf12474@spotfix.org>
+> MIME-Version: 1.0
+> Content-Type: multipart/related; boundary="16854089611.beFE3494.4525"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16854089611.beFE3494.4525
+> Content-Type: multipart/alternative; boundary="16854089610.D1d8a.4525"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16854089610.D1d8a.4525
+> Content-Type: text/plain; charset="utf-8"
+> Content-Transfer-Encoding: quoted-printable
+> 
+> Please click on the link below to confirm your email address.
+> 
+> http://localhost:3000/M/HAAEywDxqQaQDgfejp
+> 
+> Once you've done this, you'll be able to view and manage all reports and up=
+> dates you've made on Spotfix.
+> 
+> All the best,
+> 
+> The Spotfix team
+> 
+> This email was sent automatically, from an unmonitored email account - so p=
+
+> Date: Tue, 30 May 2023 21:24:34 +0100
+> To: adam.repor1@gmail.com
+> From: SpotFix <team@spotfix.org>
+> Subject: Your Spotfix account details
+> Message-ID: <fms-1685478274-9734279922@spotfix.org>
+> MIME-Version: 1.0
+> Content-Type: multipart/related; boundary="16854782741.7BF9DbaEA.4034"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16854782741.7BF9DbaEA.4034
+> Content-Type: multipart/alternative; boundary="16854782740.07d8D.4034"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16854782740.07d8D.4034
+> Content-Type: text/plain; charset="utf-8"
+> Content-Transfer-Encoding: quoted-printable
+> 
+> Please click on the link below to confirm your email address.
+> 
+> http://localhost:3000/M/AT92WcAKsNFGA6aNhH
+> 
+> Once you've done this, you'll be able to view and manage all reports and up=
+> dates you've made on Spotfix.
+> 
+> All the best,
+> 
+> The Spotfix team
+> 
+> This email was sent automatically, from an unmonitored email account - so p=
+
+> Subject: Your Spotfix account details
+> Message-ID: <fms-1685478794-62f298b24d@spotfix.org>
+> Date: Tue, 30 May 2023 21:33:14 +0100
+> To: adam.report1@gmail.com
+> From: SpotFix <team@spotfix.org>
+> MIME-Version: 1.0
+> Content-Type: multipart/related; boundary="16854787941.4f340d1.4033"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16854787941.4f340d1.4033
+> Content-Type: multipart/alternative; boundary="16854787940.cbEf.4033"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16854787940.cbEf.4033
+> Content-Type: text/plain; charset="utf-8"
+> Content-Transfer-Encoding: quoted-printable
+> 
+> Please click on the link below to confirm your email address.
+> 
+> http://localhost:3000/M/DMskmPFE8TSAB5b3xG
+> 
+> Once you've done this, you'll be able to view and manage all reports and up=
+> dates you've made on Spotfix.
+> 
+> All the best,
+> 
+> The Spotfix team
+> 
+> This email was sent automatically, from an unmonitored email account - so p=
+
+> Message-ID: <fms-1685480358-3e3c9cc467@spotfix.org>
+> Subject: Confirm your report on Spotfix
+> From: SpotFix <team@spotfix.org>
+> Date: Tue, 30 May 2023 21:59:18 +0100
+> To: houda <houda@gmail.com>
+> MIME-Version: 1.0
+> Content-Type: multipart/related; boundary="16854803581.BC0f4D5.8269"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16854803581.BC0f4D5.8269
+> Content-Type: multipart/alternative; boundary="16854803580.0b416F1e.8269"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16854803580.0b416F1e.8269
+> Content-Type: text/plain; charset="utf-8"
+> Content-Transfer-Encoding: quoted-printable
+> 
+> Hello houda,
+> 
+> Please click on the link below to confirm that you want to send your report=
+>  to facult=C3=A9 medecine . Note that your report will also appear on the S=
+> potfix website.
+> 
+> http://localhost:3000/P/G5EECWCbpFESDTDUeW
+> 
+> If your email program does not let you click on this link, copy and paste i=
+> t into your web browser and press return.
+> 
+> Your problem had the title:
+> 
+> Le probl=C3=A8me
+> 
+> And details:
+> 
+> E.g. =E2=80=98This pothole has been here for two months and=E2=80=A6=E2=80=
+> =99
+> 
+> If you no longer wish to send this report, please take no further action.
+> 
+> Thank you for submitting a report through Spotfix.
+> 
+> All the best,
+> 
+> The Spotfix team
+> 
+> This email was sent automatically, from an unmonitored email account - so p=
+
+> From: SpotFix <team@spotfix.org>
+> Subject: Your Spotfix account details
+> Date: Wed, 31 May 2023 00:19:27 +0100
+> Message-ID: <fms-1685488767-7775235ac7@spotfix.org>
+> To: adambouhni@gmail.com
+> MIME-Version: 1.0
+> Content-Type: multipart/related; boundary="16854887671.d2ae8Fc3.26993"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16854887671.d2ae8Fc3.26993
+> Content-Type: multipart/alternative; boundary="16854887670.a1F3.26993"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16854887670.a1F3.26993
+> Content-Type: text/plain; charset="utf-8"
+> Content-Transfer-Encoding: quoted-printable
+> 
+> Please click on the link below to confirm your email address.
+> 
+> http://localhost:3000/M/G6QywmAPVxrzCNwR4M
+> 
+> Once you've done this, you'll be able to view and manage all reports and up=
+> dates you've made on Spotfix.
+> 
+> All the best,
+> 
+> The Spotfix team
+> 
+> This email was sent automatically, from an unmonitored email account - so p=
+
+> From: SpotFix <team@spotfix.org>
+> Subject: Your Spotfix account details
+> Date: Wed, 31 May 2023 01:16:35 +0100
+> Message-ID: <fms-1685492195-9fb47e1f2a@spotfix.org>
+> To: adambouhni@gmail.com
+> MIME-Version: 1.0
+> Content-Type: multipart/related; boundary="16854921951.E9fa2.31036"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16854921951.E9fa2.31036
+> Content-Type: multipart/alternative; boundary="16854921950.526CfC7.31036"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16854921950.526CfC7.31036
+> Content-Type: text/plain; charset="utf-8"
+> Content-Transfer-Encoding: quoted-printable
+> 
+> Please click on the link below to confirm your email address.
+> 
+> http://localhost:3000/M/D5jQfUGdRpG6FAcQkf
+> 
+> Once you've done this, you'll be able to view and manage all reports and up=
+> dates you've made on Spotfix.
+> 
+> All the best,
+> 
+> The Spotfix team
+> 
+> This email was sent automatically, from an unmonitored email account - so p=
+
+> From: SpotFix <team@spotfix.org>
+> Subject: Your Spotfix account details
+> Date: Wed, 31 May 2023 01:17:37 +0100
+> Message-ID: <fms-1685492257-69663d8953@spotfix.org>
+> To: adambouhni@gmail.com
+> MIME-Version: 1.0
+> Content-Type: multipart/related; boundary="16854922571.596BD40E.31226"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16854922571.596BD40E.31226
+> Content-Type: multipart/alternative; boundary="16854922570.b8daE.31226"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16854922570.b8daE.31226
+> Content-Type: text/plain; charset="utf-8"
+> Content-Transfer-Encoding: quoted-printable
+> 
+> Please click on the link below to confirm your email address.
+> 
+> http://localhost:3000/M/EtuWaJAMJKwUBUmdVQ
+> 
+> Once you've done this, you'll be able to view and manage all reports and up=
+> dates you've made on Spotfix.
+> 
+> All the best,
+> 
+> The Spotfix team
+> 
+> This email was sent automatically, from an unmonitored email account - so p=
+
+> Date: Wed, 31 May 2023 01:20:35 +0100
+> From: SpotFix <team@spotfix.org>
+> Subject: Your Spotfix account details
+> To: adambouhni@gmail.com
+> Message-ID: <fms-1685492435-79d6c85609@spotfix.org>
+> MIME-Version: 1.0
+> Content-Type: multipart/related; boundary="16854924351.D56FC9A.31379"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16854924351.D56FC9A.31379
+> Content-Type: multipart/alternative; boundary="16854924350.6F98baA6F.31379"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16854924350.6F98baA6F.31379
+> Content-Type: text/plain; charset="utf-8"
+> Content-Transfer-Encoding: quoted-printable
+> 
+> Please click on the link below to confirm your email address.
+> 
+> http://localhost:3000/M/F4J9D2AJ4fUkBwZc3L
+> 
+> Once you've done this, you'll be able to view and manage all reports and up=
+> dates you've made on Spotfix.
+> 
+> All the best,
+> 
+> The Spotfix team
+> 
+> This email was sent automatically, from an unmonitored email account - so p=
+
+> Message-ID: <fms-1685496134-44c51f1ede@spotfix.org>
+> To: adam <adambouhni@gmail.com>
+> Subject: Your report on Spotfix has been moderated
+> From: SpotFix <team@spotfix.org>
+> Date: Wed, 31 May 2023 02:22:14 +0100
+> MIME-Version: 1.0
+> Content-Type: multipart/related; boundary="16854961341.db91.38375"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16854961341.db91.38375
+> Content-Type: multipart/alternative; boundary="16854961340.cf0ff.38375"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16854961340.cf0ff.38375
+> Content-Type: text/plain; charset="utf-8"
+> Content-Transfer-Encoding: quoted-printable
+> 
+> Hello adam,
+> 
+> Your report on Spotfix has been moderated.
+> 
+> The following data has been changed:
+> 
+> 	anonymous
+> 
+> Your report had the title:
+> 
+> E.g. =E2=80=98This pothole has been here for two months and=E2=80=A6=E2=80=
+> =99
+> 
+> And details:
+> 
+> E.g. =E2=80=98This pothole has been here for two months and=E2=80=A6=E2=80=
+> =99
+> 
+> You can see the report at http://localhost:3000/report/25
+> 
+> If you do not think that this report should have been moderated, you may co=
+> ntact the team at http://localhost:3000/contact?m=3DD369EPFuyqFiBUskRG
+> 
+> Thank you for submitting a report through Spotfix.
+> 
+> All the best,
+> 
+> The Spotfix team
+> 
+> This email was sent automatically, from an unmonitored email account - so p=
+
+> Subject: Confirm your report on Spotfix
+> From: SpotFix <team@spotfix.org>
+> Date: Wed, 31 May 2023 03:23:37 +0100
+> Message-ID: <fms-1685499817-c7be780ee3@spotfix.org>
+> To: anotad <notad@gmail.com>
+> MIME-Version: 1.0
+> Content-Type: multipart/related; boundary="16854998171.8dE2.46284"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16854998171.8dE2.46284
+> Content-Type: multipart/alternative; boundary="16854998170.7feF7.46284"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16854998170.7feF7.46284
+> Content-Type: text/plain; charset="utf-8"
+> Content-Transfer-Encoding: quoted-printable
+> 
+> Hello anotad,
+> 
+> Please click on the link below to confirm that you want to send your report=
+>  to facult=C3=A9 medecine . Note that your report will also appear on the S=
+> potfix website.
+> 
+> http://localhost:3000/P/FAeBVBCRuA5HFFGbAd
+> 
+> If your email program does not let you click on this link, copy and paste i=
+> t into your web browser and press return.
+> 
+> Your problem had the title:
+> 
+> Le probl=C3=A8me
+> 
+> And details:
+> 
+> E.g. =E2=80=98This pothole has been here for two months and=E2=80=A6=E2=80=
+> =99
+> 
+> If you no longer wish to send this report, please take no further action.
+> 
+> Thank you for submitting a report through Spotfix.
+> 
+> All the best,
+> 
+> The Spotfix team
+> 
+> This email was sent automatically, from an unmonitored email account - so p=
+
+> Date: Fri, 02 Jun 2023 19:40:46 +0100
+> To: adambouhnidira@gmail.com
+> Subject: Your Spotfix account details
+> Message-ID: <fms-1685731246-8bd16af739@spotfix.org>
+> From: SpotFix <team@spotfix.org>
+> MIME-Version: 1.0
+> Content-Type: multipart/related; boundary="16857312461.BCf2B320.7338"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16857312461.BCf2B320.7338
+> Content-Type: multipart/alternative; boundary="16857312460.4c0d.7338"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16857312460.4c0d.7338
+> Content-Type: text/plain; charset="utf-8"
+> Content-Transfer-Encoding: quoted-printable
+> 
+> Please click on the link below to confirm your email address.
+> 
+> http://localhost:3000/M/Aq86QjDcbkKGBTjECo
+> 
+> Once you've done this, you'll be able to view and manage all reports and up=
+> dates you've made on Spotfix.
+> 
+> All the best,
+> 
+> The Spotfix team
+> 
+> This email was sent automatically, from an unmonitored email account - so p=
+
+> Subject: Your Spotfix account details
+> Message-ID: <fms-1685752133-a96a938118@spotfix.org>
+> From: SpotFix <team@spotfix.org>
+> Date: Sat, 03 Jun 2023 01:28:53 +0100
+> To: adam.report1@gmail.com
+> MIME-Version: 1.0
+> Content-Type: multipart/related; boundary="16857521331.4E3A68.36676"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16857521331.4E3A68.36676
+> Content-Type: multipart/alternative; boundary="16857521330.E67B114.36676"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16857521330.E67B114.36676
+> Content-Type: text/plain; charset="utf-8"
+> Content-Transfer-Encoding: quoted-printable
+> 
+> Please click on the link below to confirm your email address.
+> 
+> http://localhost:3000/M/CdpPr3Em9aKrFG7DU7
+> 
+> Once you've done this, you'll be able to view and manage all reports and up=
+> dates you've made on Spotfix.
+> 
+> All the best,
+> 
+> The Spotfix team
+> 
+> This email was sent automatically, from an unmonitored email account - so p=
+
+> To: adambouhni@gmail.com
+> Date: Sat, 03 Jun 2023 01:32:37 +0100
+> Subject: Your Spotfix account details
+> From: SpotFix <team@spotfix.org>
+> Message-ID: <fms-1685752357-9c5773373b@spotfix.org>
+> MIME-Version: 1.0
+> Content-Type: multipart/related; boundary="16857523571.Efa6.37382"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16857523571.Efa6.37382
+> Content-Type: multipart/alternative; boundary="16857523570.ecF5C4D0b.37382"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16857523570.ecF5C4D0b.37382
+> Content-Type: text/plain; charset="utf-8"
+> Content-Transfer-Encoding: quoted-printable
+> 
+> Please click on the link below to confirm your email address.
+> 
+> http://localhost:3000/M/FwCkArBNAk7oE4bEKo
+> 
+> Once you've done this, you'll be able to view and manage all reports and up=
+> dates you've made on Spotfix.
+> 
+> All the best,
+> 
+> The Spotfix team
+> 
+> This email was sent automatically, from an unmonitored email account - so p=
+
+> From: SpotFix <team@spotfix.org>
+> Message-ID: <fms-1685752565-b7d6ca985c@spotfix.org>
+> Subject: Your Spotfix account details
+> To: adam.report1@gmail.com
+> Date: Sat, 03 Jun 2023 01:36:05 +0100
+> MIME-Version: 1.0
+> Content-Type: multipart/related; boundary="16857525651.c5BBA1.37772"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16857525651.c5BBA1.37772
+> Content-Type: multipart/alternative; boundary="16857525650.b59Feb.37772"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16857525650.b59Feb.37772
+> Content-Type: text/plain; charset="utf-8"
+> Content-Transfer-Encoding: quoted-printable
+> 
+> Please click on the link below to confirm your email address.
+> 
+> http://localhost:3000/M/AKkCzdBkhUbYGPwhpL
+> 
+> Once you've done this, you'll be able to view and manage all reports and up=
+> dates you've made on Spotfix.
+> 
+> All the best,
+> 
+> The Spotfix team
+> 
+> This email was sent automatically, from an unmonitored email account - so p=
+
+> Message-ID: <fms-1685752838-06f9455c84@spotfix.org>
+> From: SpotFix <team@spotfix.org>
+> Subject: Your Spotfix account details
+> Date: Sat, 03 Jun 2023 01:40:38 +0100
+> To: adam.report1@gmail.com
+> MIME-Version: 1.0
+> Content-Type: multipart/related; boundary="16857528381.20fDca0.38603"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16857528381.20fDca0.38603
+> Content-Type: multipart/alternative; boundary="16857528380.7aF80.38603"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16857528380.7aF80.38603
+> Content-Type: text/plain; charset="utf-8"
+> Content-Transfer-Encoding: quoted-printable
+> 
+> Please click on the link below to confirm your email address.
+> 
+> http://localhost:3000/M/CpgCFuDHAHcuExtQWT
+> 
+> Once you've done this, you'll be able to view and manage all reports and up=
+> dates you've made on Spotfix.
+> 
+> All the best,
+> 
+> The Spotfix team
+> 
+> This email was sent automatically, from an unmonitored email account - so p=
+
+> Subject: Your Spotfix account details
+> Message-ID: <fms-1685795019-bdc4760607@spotfix.org>
+> Date: Sat, 03 Jun 2023 13:23:39 +0100
+> From: SpotFix <team@spotfix.org>
+> To: adam.report1@gmail.com
+> MIME-Version: 1.0
+> Content-Type: multipart/related; boundary="16857950191.b727EC5FF.2188"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16857950191.b727EC5FF.2188
+> Content-Type: multipart/alternative; boundary="16857950190.b709.2188"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16857950190.b709.2188
+> Content-Type: text/plain; charset="utf-8"
+> Content-Transfer-Encoding: quoted-printable
+> 
+> Please click on the link below to confirm your email address.
+> 
+> http://localhost:3000/M/GgDgQpB7AUuNGUS8r2
+> 
+> Once you've done this, you'll be able to view and manage all reports and up=
+> dates you've made on Spotfix.
+> 
+> All the best,
+> 
+> The Spotfix team
+> 
+> This email was sent automatically, from an unmonitored email account - so p=
+
+> Message-ID: <fms-1685799644-64869cbb3e@spotfix.org>
+> Subject: Your Spotfix account details
+> To: merehouda@gmail.com
+> From: SpotFix <team@spotfix.org>
+> Date: Sat, 03 Jun 2023 14:40:44 +0100
+> MIME-Version: 1.0
+> Content-Type: multipart/related; boundary="16857996441.1866C5bd4.6478"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16857996441.1866C5bd4.6478
+> Content-Type: multipart/alternative; boundary="16857996440.EDBd.6478"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16857996440.EDBd.6478
+> Content-Type: text/plain; charset="utf-8"
+> Content-Transfer-Encoding: quoted-printable
+> 
+> Please click on the link below to confirm your email address.
+> 
+> http://localhost:3000/M/DVwNqMDZCXbSGaB2iD
+> 
+> Once you've done this, you'll be able to view and manage all reports and up=
+> dates you've made on Spotfix.
+> 
+> All the best,
+> 
+> The Spotfix team
+> 
+> This email was sent automatically, from an unmonitored email account - so p=
+
+> Date: Sat, 03 Jun 2023 17:01:21 +0100
+> To: atam <atam@gmail.com>
+> Message-ID: <fms-1685808081-aa824c6db4@spotfix.org>
+> Subject: Confirm your report on Spotfix
+> From: SpotFix <team@spotfix.org>
+> MIME-Version: 1.0
+> Content-Type: multipart/related; boundary="16858080811.FF8E0d.6453"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16858080811.FF8E0d.6453
+> Content-Type: multipart/alternative; boundary="16858080810.F5d8cC3.6453"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16858080810.F5d8cC3.6453
+> Content-Type: text/plain; charset="utf-8"
+> Content-Transfer-Encoding: quoted-printable
+> 
+> Hello atam,
+> 
+> Please click on the link below to confirm that you want to send your report=
+>  to facult=C3=A9 medecine . Note that your report will also appear on the S=
+> potfix website.
+> 
+> http://192.168.11.202:3000/P/AGzktVFZFkZZBwk3iP
+> 
+> If your email program does not let you click on this link, copy and paste i=
+> t into your web browser and press return.
+> 
+> Your problem had the title:
+> 
+> Machine a laver khassra
+> 
+> And details:
+> 
+> La machine a laver est khassr
+> 
+> If you no longer wish to send this report, please take no further action.
+> 
+> Thank you for submitting a report through Spotfix.
+> 
+> All the best,
+> 
+> The Spotfix team
+> 
+> This email was sent automatically, from an unmonitored email account - so p=
+
+> Subject: Your Spotfix account details
+> From: SpotFix <team@spotfix.org>
+> Message-ID: <fms-1685808387-aa936fdd3c@spotfix.org>
+> To: adam.report1@gmail.com
+> Date: Sat, 03 Jun 2023 17:06:27 +0100
+> MIME-Version: 1.0
+> Content-Type: multipart/related; boundary="16858083871.d0484.7100"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16858083871.d0484.7100
+> Content-Type: multipart/alternative; boundary="16858083870.C83aB.7100"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16858083870.C83aB.7100
+> Content-Type: text/plain; charset="utf-8"
+> Content-Transfer-Encoding: quoted-printable
+> 
+> Please click on the link below to confirm your email address.
+> 
+> http://192.168.11.202:3000/M/C4VnDcAbipJ6GTbXVx
+> 
+> Once you've done this, you'll be able to view and manage all reports and up=
+> dates you've made on Spotfix.
+> 
+> All the best,
+> 
+> The Spotfix team
+> 
+> This email was sent automatically, from an unmonitored email account - so p=
+
+> Subject: Confirm your report on Spotfix
+> From: SpotFix <team@spotfix.org>
+> Date: Tue, 06 Jun 2023 01:04:29 +0100
+> To: person <adambouhni@gmail.com>
+> Message-ID: <fms-1686009869-1beb5f8f94@spotfix.org>
+> MIME-Version: 1.0
+> Content-Type: multipart/related; boundary="16860098691.f9EE.3221"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16860098691.f9EE.3221
+> Content-Type: multipart/alternative; boundary="16860098690.d9543F3.3221"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16860098690.d9543F3.3221
+> Content-Type: text/plain; charset="utf-8"
+> Content-Transfer-Encoding: quoted-printable
+> 
+> Hello person,
+> 
+> Please click on the link below to confirm that you want to send your report=
+>  to facult=C3=A9 medecine . Note that your report will also appear on the S=
+> potfix website.
+> 
+> http://192.168.1.9:3000/P/BjSXiCEDKaGcA89Ung
+> 
+> If your email program does not let you click on this link, copy and paste i=
+> t into your web browser and press return.
+> 
+> Your problem had the title:
+> 
+> R le probl=C3=A8me
+> 
+> And details:
+> 
+> Expliquez le probl=C3=A8me
+> 
+> If you no longer wish to send this report, please take no further action.
+> 
+> Thank you for submitting a report through Spotfix.
+> 
+> All the best,
+> 
+> The Spotfix team
+> 
+> This email was sent automatically, from an unmonitored email account - so p=
+
+> To: adam <adam@gmail.com>
+> Message-ID: <fms-1686328339-407cae57ce@spotfix.org>
+> From: SpotFix <team@spotfix.org>
+> Subject: Confirm your report on Spotfix
+> Date: Fri, 09 Jun 2023 17:32:19 +0100
+> MIME-Version: 1.0
+> Content-Type: multipart/related; boundary="16863283391.27dF5Cb.2803"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16863283391.27dF5Cb.2803
+> Content-Type: multipart/alternative; boundary="16863283390.8cFc20.2803"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16863283390.8cFc20.2803
+> Content-Type: text/plain; charset="utf-8"
+> Content-Transfer-Encoding: quoted-printable
+> 
+> Hello adam,
+> 
+> Please click on the link below to confirm that you want to send your report=
+>  to facult=C3=A9 medecine . Note that your report will also appear on the S=
+> potfix website.
+> 
+> http://localhost:3000/P/FWrdR5AosNZxC7RrnJ
+> 
+> If your email program does not let you click on this link, copy and paste i=
+> t into your web browser and press return.
+> 
+> Your problem had the title:
+> 
+> Dfgh
+> 
+> And details:
+> 
+> Dfghj
+> 
+> If you no longer wish to send this report, please take no further action.
+> 
+> Thank you for submitting a report through Spotfix.
+> 
+> All the best,
+> 
+> The Spotfix team
+> 
+> This email was sent automatically, from an unmonitored email account - so p=
+
+> Subject: Your Spotfix account details
+> From: SpotFix <team@spotfix.org>
+> Date: Fri, 09 Jun 2023 17:33:42 +0100
+> Message-ID: <fms-1686328422-68d67ad271@spotfix.org>
+> To: adam@gmail.com
+> MIME-Version: 1.0
+> Content-Type: multipart/related; boundary="16863284221.9fFE2CF7f.6024"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16863284221.9fFE2CF7f.6024
+> Content-Type: multipart/alternative; boundary="16863284220.9eF8c1F.6024"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16863284220.9eF8c1F.6024
+> Content-Type: text/plain; charset="utf-8"
+> Content-Transfer-Encoding: quoted-printable
+> 
+> Please click on the link below to confirm your email address.
+> 
+> http://localhost:3000/M/DQ78a4AirKm3Gdmvxg
+> 
+> Once you've done this, you'll be able to view and manage all reports and up=
+> dates you've made on Spotfix.
+> 
+> All the best,
+> 
+> The Spotfix team
+> 
+> This email was sent automatically, from an unmonitored email account - so p=
+
+> Date: Fri, 09 Jun 2023 17:36:17 +0100
+> Subject: Your Spotfix account details
+> From: SpotFix <team@spotfix.org>
+> To: adam.report1@gmail.com
+> Message-ID: <fms-1686328577-c729fc29e1@spotfix.org>
+> MIME-Version: 1.0
+> Content-Type: multipart/related; boundary="16863285771.A7BD.6100"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16863285771.A7BD.6100
+> Content-Type: multipart/alternative; boundary="16863285770.012F69f6b.6100"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16863285770.012F69f6b.6100
+> Content-Type: text/plain; charset="utf-8"
+> Content-Transfer-Encoding: quoted-printable
+> 
+> Please click on the link below to confirm your email address.
+> 
+> http://localhost:3000/M/E78RkfESFDjhFV8NWw
+> 
+> Once you've done this, you'll be able to view and manage all reports and up=
+> dates you've made on Spotfix.
+> 
+> All the best,
+> 
+> The Spotfix team
+> 
+> This email was sent automatically, from an unmonitored email account - so p=
+
+> Date: Fri, 09 Jun 2023 17:43:04 +0100
+> Subject: Your Spotfix account details
+> From: SpotFix <team@spotfix.org>
+> Message-ID: <fms-1686328984-5a30b1acdc@spotfix.org>
+> To: adambouhni@gmail.com
+> MIME-Version: 1.0
+> Content-Type: multipart/related; boundary="16863289841.A391Ba67.6180"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16863289841.A391Ba67.6180
+> Content-Type: multipart/alternative; boundary="16863289840.Ec2Dbbb.6180"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16863289840.Ec2Dbbb.6180
+> Content-Type: text/plain; charset="utf-8"
+> Content-Transfer-Encoding: quoted-printable
+> 
+> Please click on the link below to confirm your email address.
+> 
+> http://localhost:3000/M/Ch7ucECJLADdDNTfmf
+> 
+> Once you've done this, you'll be able to view and manage all reports and up=
+> dates you've made on Spotfix.
+> 
+> All the best,
+> 
+> The Spotfix team
+> 
+> This email was sent automatically, from an unmonitored email account - so p=
+
+> Subject: Your Spotfix account details
+> Date: Fri, 09 Jun 2023 17:43:22 +0100
+> From: SpotFix <team@spotfix.org>
+> To: adambouhni@gmail.com
+> Message-ID: <fms-1686329002-71e545777f@spotfix.org>
+> MIME-Version: 1.0
+> Content-Type: multipart/related; boundary="16863290021.11aB3.6420"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16863290021.11aB3.6420
+> Content-Type: multipart/alternative; boundary="16863290020.B57f2aA.6420"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16863290020.B57f2aA.6420
+> Content-Type: text/plain; charset="utf-8"
+> Content-Transfer-Encoding: quoted-printable
+> 
+> Please click on the link below to confirm your email address.
+> 
+> http://localhost:3000/M/CYMwfgCK7N2ABr234L
+> 
+> Once you've done this, you'll be able to view and manage all reports and up=
+> dates you've made on Spotfix.
+> 
+> All the best,
+> 
+> The Spotfix team
+> 
+> This email was sent automatically, from an unmonitored email account - so p=
+
+> Subject: Confirm your report on Spotfix
+> Message-ID: <fms-1686604799-d35d8ff44c@spotfix.org>
+> From: SpotFix <team@spotfix.org>
+> To: nouveau <new@gmail.com>
+> Date: Mon, 12 Jun 2023 22:19:59 +0100
+> MIME-Version: 1.0
+> Content-Type: multipart/related; boundary="16866047991.375bdB7.9865"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16866047991.375bdB7.9865
+> Content-Type: multipart/alternative; boundary="16866047990.7E8d.9865"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16866047990.7E8d.9865
+> Content-Type: text/plain; charset="utf-8"
+> Content-Transfer-Encoding: quoted-printable
+> 
+> Hello nouveau,
+> 
+> Please click on the link below to confirm that you want to send your report=
+>  to facult=C3=A9 medecine . Note that your report will also appear on the S=
+> potfix website.
+> 
+> http://192.168.1.107:3000/P/BjpsSSDSiVwhCsyuLQ
+> 
+> If your email program does not let you click on this link, copy and paste i=
+> t into your web browser and press return.
+> 
+> Your problem had the title:
+> 
+> Le projecteur de l'amphi B
+> 
+> And details:
+> 
+> Le projecteur de l amphi B, Il projette des images floues et intermittentes=
+> , ce qui affecte les pr=C3=A9sentations des professeurs.
+> 
+> If you no longer wish to send this report, please take no further action.
+> 
+> Thank you for submitting a report through Spotfix.
+> 
+> All the best,
+> 
+> The Spotfix team
+> 
+> This email was sent automatically, from an unmonitored email account - so p=
+
+> To: new@gmail.com
+> From: SpotFix <team@spotfix.org>
+> Date: Mon, 12 Jun 2023 22:44:43 +0100
+> Subject: Your Spotfix account details
+> Message-ID: <fms-1686606283-a5475092b6@spotfix.org>
+> MIME-Version: 1.0
+> Content-Type: multipart/related; boundary="16866062831.E7Da2eF.19007"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16866062831.E7Da2eF.19007
+> Content-Type: multipart/alternative; boundary="16866062830.3376fBD31.19007"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16866062830.3376fBD31.19007
+> Content-Type: text/plain; charset="utf-8"
+> Content-Transfer-Encoding: quoted-printable
+> 
+> Please click on the link below to confirm your email address.
+> 
+> http://192.168.1.107:3000/M/Bmdzs4GJ4HvyGmniYR
+> 
+> Once you've done this, you'll be able to view and manage all reports and up=
+> dates you've made on Spotfix.
+> 
+> All the best,
+> 
+> The Spotfix team
+> 
+> This email was sent automatically, from an unmonitored email account - so p=
+
+> Message-ID: <fms-1686606344-b032e6bddd@spotfix.org>
+> Subject: Your Spotfix account details
+> Date: Mon, 12 Jun 2023 22:45:44 +0100
+> From: SpotFix <team@spotfix.org>
+> To: new@gmail.com
+> MIME-Version: 1.0
+> Content-Type: multipart/related; boundary="16866063441.D8c3a9D50.19849"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16866063441.D8c3a9D50.19849
+> Content-Type: multipart/alternative; boundary="16866063440.eDa85ab5.19849"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16866063440.eDa85ab5.19849
+> Content-Type: text/plain; charset="utf-8"
+> Content-Transfer-Encoding: quoted-printable
+> 
+> Please click on the link below to confirm your email address.
+> 
+> http://192.168.1.107:3000/M/BFaiegB6yDifCJzsF6
+> 
+> Once you've done this, you'll be able to view and manage all reports and up=
+> dates you've made on Spotfix.
+> 
+> All the best,
+> 
+> The Spotfix team
+> 
+> This email was sent automatically, from an unmonitored email account - so p=
+
+> To: super@gmail.com
+> From: SpotFix <team@spotfix.org>
+> Date: Mon, 12 Jun 2023 22:49:05 +0100
+> Subject: Your Spotfix account details
+> Message-ID: <fms-1686606545-ba2a7f0319@spotfix.org>
+> MIME-Version: 1.0
+> Content-Type: multipart/related; boundary="16866065451.BA60.19975"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16866065451.BA60.19975
+> Content-Type: multipart/alternative; boundary="16866065450.4AA5.19975"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16866065450.4AA5.19975
+> Content-Type: text/plain; charset="utf-8"
+> Content-Transfer-Encoding: quoted-printable
+> 
+> Please click on the link below to confirm your email address.
+> 
+> http://192.168.1.107:3000/M/GKpxbGGkETWTF8BM74
+> 
+> Once you've done this, you'll be able to view and manage all reports and up=
+> dates you've made on Spotfix.
+> 
+> All the best,
+> 
+> The Spotfix team
+> 
+> This email was sent automatically, from an unmonitored email account - so p=
+
+> From: SpotFix <team@spotfix.org>
+> To: super@gmail.com
+> Date: Mon, 12 Jun 2023 23:22:32 +0100
+> Subject: Your Spotfix account details
+> Message-ID: <fms-1686608552-eaca5412cd@spotfix.org>
+> MIME-Version: 1.0
+> Content-Type: multipart/related; boundary="16866085521.A5bAA9DF.21583"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16866085521.A5bAA9DF.21583
+> Content-Type: multipart/alternative; boundary="16866085520.A0CE33c8A.21583"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16866085520.A0CE33c8A.21583
+> Content-Type: text/plain; charset="utf-8"
+> Content-Transfer-Encoding: quoted-printable
+> 
+> Please click on the link below to confirm your email address.
+> 
+> http://192.168.1.107:3000/M/Cxh6C5FPGVujGSRsAw
+> 
+> Once you've done this, you'll be able to view and manage all reports and up=
+> dates you've made on Spotfix.
+> 
+> All the best,
+> 
+> The Spotfix team
+> 
+> This email was sent automatically, from an unmonitored email account - so p=
+
+> To: new@gmail.com
+> Message-ID: <fms-1686630043-4232073fbd@spotfix.org>
+> From: SpotFix <team@spotfix.org>
+> Subject: Your Spotfix account details
+> Date: Tue, 13 Jun 2023 05:20:43 +0100
+> MIME-Version: 1.0
+> Content-Type: multipart/related; boundary="16866300431.AcB2A6.2569"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16866300431.AcB2A6.2569
+> Content-Type: multipart/alternative; boundary="16866300430.Ee7dA.2569"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16866300430.Ee7dA.2569
+> Content-Type: text/plain; charset="utf-8"
+> Content-Transfer-Encoding: quoted-printable
+> 
+> Please click on the link below to confirm your email address.
+> 
+> http://192.168.1.107:3000/M/CniAWUBmi4ZdBPYWmM
+> 
+> Once you've done this, you'll be able to view and manage all reports and up=
+> dates you've made on Spotfix.
+> 
+> All the best,
+> 
+> The Spotfix team
+> 
+> This email was sent automatically, from an unmonitored email account - so p=
+
+> Subject: Your Spotfix account details
+> Date: Tue, 13 Jun 2023 05:21:54 +0100
+> To: new@gmail.com
+> From: SpotFix <team@spotfix.org>
+> Message-ID: <fms-1686630114-acd221a478@spotfix.org>
+> MIME-Version: 1.0
+> Content-Type: multipart/related; boundary="16866301141.F8cA4.3613"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16866301141.F8cA4.3613
+> Content-Type: multipart/alternative; boundary="16866301140.1f538e573.3613"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16866301140.1f538e573.3613
+> Content-Type: text/plain; charset="utf-8"
+> Content-Transfer-Encoding: quoted-printable
+> 
+> Please click on the link below to confirm your email address.
+> 
+> http://192.168.1.107:3000/M/C837QCCSuT6oCQJaGP
+> 
+> Once you've done this, you'll be able to view and manage all reports and up=
+> dates you've made on Spotfix.
+> 
+> All the best,
+> 
+> The Spotfix team
+> 
+> This email was sent automatically, from an unmonitored email account - so p=
+
+> Subject: Your Spotfix account details
+> Date: Tue, 13 Jun 2023 05:22:07 +0100
+> To: adambouhni@gmail.com
+> Message-ID: <fms-1686630127-b19b9f931d@spotfix.org>
+> From: SpotFix <team@spotfix.org>
+> MIME-Version: 1.0
+> Content-Type: multipart/related; boundary="16866301271.0163dC1D.4068"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16866301271.0163dC1D.4068
+> Content-Type: multipart/alternative; boundary="16866301270.aCC0.4068"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16866301270.aCC0.4068
+> Content-Type: text/plain; charset="utf-8"
+> Content-Transfer-Encoding: quoted-printable
+> 
+> Please click on the link below to confirm your email address.
+> 
+> http://192.168.1.107:3000/M/BHFPzmGXUaZnGJ4aYg
+> 
+> Once you've done this, you'll be able to view and manage all reports and up=
+> dates you've made on Spotfix.
+> 
+> All the best,
+> 
+> The Spotfix team
+> 
+> This email was sent automatically, from an unmonitored email account - so p=
+
+> To: inko@gmail.com
+> From: SpotFix <team@spotfix.org>
+> Subject: Your Spotfix account details
+> Message-ID: <fms-1687261759-683a64393f@spotfix.org>
+> Date: Tue, 20 Jun 2023 12:49:19 +0100
+> MIME-Version: 1.0
+> Content-Type: multipart/related; boundary="16872617591.ccfDde05.4354"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16872617591.ccfDde05.4354
+> Content-Type: multipart/alternative; boundary="16872617590.A4bcEE.4354"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16872617590.A4bcEE.4354
+> Content-Type: text/plain; charset="utf-8"
+> Content-Transfer-Encoding: quoted-printable
+> 
+> Please click on the link below to confirm your email address.
+> 
+> http://localhost:3000/M/AFh9RWDpyLeNC7shuT
+> 
+> Once you've done this, you'll be able to view and manage all reports and up=
+> dates you've made on Spotfix.
+> 
+> All the best,
+> 
+> The Spotfix team
+> 
+> This email was sent automatically, from an unmonitored email account - so p=
+
+> To: super@gmail.com
+> From: SpotFix <team@spotfix.org>
+> Subject: Your Spotfix account details
+> Message-ID: <fms-1687261938-9d88770e9c@spotfix.org>
+> Date: Tue, 20 Jun 2023 12:52:18 +0100
+> MIME-Version: 1.0
+> Content-Type: multipart/related; boundary="16872619381.9F9D03f6.6073"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16872619381.9F9D03f6.6073
+> Content-Type: multipart/alternative; boundary="16872619380.bE737b.6073"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16872619380.bE737b.6073
+> Content-Type: text/plain; charset="utf-8"
+> Content-Transfer-Encoding: quoted-printable
+> 
+> Please click on the link below to confirm your email address.
+> 
+> http://localhost:3000/M/BSQiB4GQ7jiDA4dAS9
+> 
+> Once you've done this, you'll be able to view and manage all reports and up=
+> dates you've made on Spotfix.
+> 
+> All the best,
+> 
+> The Spotfix team
+> 
+> This email was sent automatically, from an unmonitored email account - so p=
+
+> Message-ID: <fms-1687273252-8c9d1e9fd6@spotfix.org>
+> From: SpotFix <team@spotfix.org>
+> To: Adam <adam@gmail.com>
+> Subject: Confirm your report on Spotfix
+> Date: Tue, 20 Jun 2023 16:00:52 +0100
+> MIME-Version: 1.0
+> Content-Type: multipart/related; boundary="16872732521.D0Bdc5a.28987"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16872732521.D0Bdc5a.28987
+> Content-Type: multipart/alternative; boundary="16872732520.D0f0C90a.28987"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16872732520.D0f0C90a.28987
+> Content-Type: text/plain; charset="utf-8"
+> Content-Transfer-Encoding: quoted-printable
+> 
+> Hello Adam,
+> 
+> Please click on the link below to confirm that you want to send your report=
+>  to facult=C3=A9 medecine . Note that your report will also appear on the S=
+> potfix website.
+> 
+> http://192.168.11.128:3000/P/BnFgoNA2BqY2FAiE7P
+> 
+> If your email program does not let you click on this link, copy and paste i=
+> t into your web browser and press return.
+> 
+> Your problem had the title:
+> 
+> Ce pc est cass=C3=A9
+> 
+> And details:
+> 
+> Le pc de la salle U11 est cass=C3=A9
+> 
+> If you no longer wish to send this report, please take no further action.
+> 
+> Thank you for submitting a report through Spotfix.
+> 
+> All the best,
+> 
+> The Spotfix team
+> 
+> This email was sent automatically, from an unmonitored email account - so p=
+
+> To: adambouhnidira@gmail.com
+> From: SpotFix <team@spotfix.org>
+> Date: Wed, 21 Jun 2023 02:59:40 +0100
+> Subject: Your Spotfix account details
+> Message-ID: <fms-1687312780-e44b9b5239@spotfix.org>
+> MIME-Version: 1.0
+> Content-Type: multipart/related; boundary="16873127801.BfFE1862e.6915"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16873127801.BfFE1862e.6915
+> Content-Type: multipart/alternative; boundary="16873127800.F2201eaA.6915"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16873127800.F2201eaA.6915
+> Content-Type: text/plain; charset="utf-8"
+> Content-Transfer-Encoding: quoted-printable
+> 
+> Please click on the link below to confirm your email address.
+> 
+> http://192.168.1.12:3000/M/CbHwVtAEnLpmF8a7E4
+> 
+> Once you've done this, you'll be able to view and manage all reports and up=
+> dates you've made on Spotfix.
+> 
+> All the best,
+> 
+> The Spotfix team
+> 
+> This email was sent automatically, from an unmonitored email account - so p=
+
+> To: utilisateur@gmail.com
+> From: SpotFix <team@spotfix.org>
+> Subject: Your Spotfix account details
+> Date: Wed, 21 Jun 2023 03:17:21 +0100
+> Message-ID: <fms-1687313841-8c3910535a@spotfix.org>
+> MIME-Version: 1.0
+> Content-Type: multipart/related; boundary="16873138411.58c2CEcdD.7647"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16873138411.58c2CEcdD.7647
+> Content-Type: multipart/alternative; boundary="16873138410.e61Ce.7647"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16873138410.e61Ce.7647
+> Content-Type: text/plain; charset="utf-8"
+> Content-Transfer-Encoding: quoted-printable
+> 
+> Please click on the link below to confirm your email address.
+> 
+> http://192.168.1.12:3000/M/BEEMAxD4A74tCGSu2b
+> 
+> Once you've done this, you'll be able to view and manage all reports and up=
+> dates you've made on Spotfix.
+> 
+> All the best,
+> 
+> The Spotfix team
+> 
+> This email was sent automatically, from an unmonitored email account - so p=
+
+> From: SpotFix <team@spotfix.org>
+> To: "adam bouh" <adambuhni@gmail.com>
+> Subject: Confirm your report on Spotfix
+> Date: Wed, 21 Jun 2023 04:14:18 +0100
+> Message-ID: <fms-1687317258-c57db594e8@spotfix.org>
+> MIME-Version: 1.0
+> Content-Type: multipart/related; boundary="16873172581.fCDeef7E2.9200"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16873172581.fCDeef7E2.9200
+> Content-Type: multipart/alternative; boundary="16873172580.67Cf.9200"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16873172580.67Cf.9200
+> Content-Type: text/plain; charset="utf-8"
+> Content-Transfer-Encoding: quoted-printable
+> 
+> Hello adam bouh,
+> 
+> Please click on the link below to confirm that you want to send your report=
+>  to facult=C3=A9 medecine . Note that your report will also appear on the S=
+> potfix website.
+> 
+> http://192.168.1.12:3000/P/Cbn5WuC8hWV9GCAmfU
+> 
+> If your email program does not let you click on this link, copy and paste i=
+> t into your web browser and press return.
+> 
+> Your problem had the title:
+> 
+> La fenetre de la salle u11 est cass=C3=A9
+> 
+> And details:
+> 
+> La fenere cass=C3=A9
+> 
+> If you no longer wish to send this report, please take no further action.
+> 
+> Thank you for submitting a report through Spotfix.
+> 
+> All the best,
+> 
+> The Spotfix team
+> 
+> This email was sent automatically, from an unmonitored email account - so p=
+
+> Date: Wed, 21 Jun 2023 04:15:51 +0100
+> Subject: Your Spotfix account details
+> Message-ID: <fms-1687317351-b08fc1d731@spotfix.org>
+> From: SpotFix <team@spotfix.org>
+> To: adam.report1@gmail.com
+> MIME-Version: 1.0
+> Content-Type: multipart/related; boundary="16873173511.408dF6Bb.11073"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16873173511.408dF6Bb.11073
+> Content-Type: multipart/alternative; boundary="16873173510.94C03310.11073"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16873173510.94C03310.11073
+> Content-Type: text/plain; charset="utf-8"
+> Content-Transfer-Encoding: quoted-printable
+> 
+> Please click on the link below to confirm your email address.
+> 
+> http://192.168.1.12:3000/M/A6iwfoAvV2hUDS3jf9
+> 
+> Once you've done this, you'll be able to view and manage all reports and up=
+> dates you've made on Spotfix.
+> 
+> All the best,
+> 
+> The Spotfix team
+> 
+> This email was sent automatically, from an unmonitored email account - so p=
+
+> Date: Wed, 21 Jun 2023 10:18:41 +0100
+> Message-ID: <fms-1687339121-25f3902170@spotfix.org>
+> From: SpotFix <team@spotfix.org>
+> Subject: Confirm your report on Spotfix
+> To: Adam <utilisateur@gmail.com>
+> MIME-Version: 1.0
+> Content-Type: multipart/related; boundary="16873391211.4Ef9C.13383"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16873391211.4Ef9C.13383
+> Content-Type: multipart/alternative; boundary="16873391210.12273DAc1.13383"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16873391210.12273DAc1.13383
+> Content-Type: text/plain; charset="utf-8"
+> Content-Transfer-Encoding: quoted-printable
+> 
+> Hello Adam,
+> 
+> Please click on the link below to confirm that you want to send your report=
+>  to facult=C3=A9 medecine . Note that your report will also appear on the S=
+> potfix website.
+> 
+> http://172.20.10.11:3000/P/C2BTiYGrXM2aCxZv6o
+> 
+> If your email program does not let you click on this link, copy and paste i=
+> t into your web browser and press return.
+> 
+> Your problem had the title:
+> 
+> La porte est diffectuer
+> 
+> And details:
+> 
+> La porte ne s ouvre pas facilement
+> 
+> If you no longer wish to send this report, please take no further action.
+> 
+> Thank you for submitting a report through Spotfix.
+> 
+> All the best,
+> 
+> The Spotfix team
+> 
+> This email was sent automatically, from an unmonitored email account - so p=
+
+> Subject: Your Spotfix account details
+> To: adam.report1@gmail.com
+> From: SpotFix <team@spotfix.org>
+> Message-ID: <fms-1687339252-e0fa1d60f3@spotfix.org>
+> Date: Wed, 21 Jun 2023 10:20:52 +0100
+> MIME-Version: 1.0
+> Content-Type: multipart/related; boundary="16873392521.Ace4e.14114"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16873392521.Ace4e.14114
+> Content-Type: multipart/alternative; boundary="16873392520.da1e.14114"
+> Content-Transfer-Encoding: 7bit
+> 
+> 
+> --16873392520.da1e.14114
+> Content-Type: text/plain; charset="utf-8"
+> Content-Transfer-Encoding: quoted-printable
+> 
+> Please click on the link below to confirm your email address.
+> 
+> http://172.20.10.11:3000/M/DqgfNnEkvSNqED3JsQ
+> 
+> Once you've done this, you'll be able to view and manage all reports and up=
+> dates you've made on Spotfix.
+> 
+> All the best,
+> 
+> The Spotfix team
+> 
+> This email was sent automatically, from an unmonitored email account - so p=
+

@@ -1,0 +1,171 @@
+@import "../sass/h5bp";
+@import "./_colours";
+@import "./_fonts";
+@import "../sass/mixins";
+
+@import "../sass/base";
+@import "../sass/report_list_pins";
+
+body.frontpage {
+    color: $primary_text;
+    a,
+    .fake-link {
+        &:visited {
+            color: $links_visited;
+        }
+    }
+}
+
+#site-logo {
+    @include svg-background-image("/cobrands/greenwich/images/greenwich-logo");
+    // background: url("/cobrands/greenwich/images/greenwich-logo.svg") 0 50% no-repeat;
+    background-size: 77px 40px;
+    width: 80px;
+    height: 60px;
+}
+
+#nav-link {
+    // Custom menu image to match the official Greenwich site.
+    @include svg-background-image("/cobrands/greenwich/images/menu");
+    background-size: 20px 20px;
+
+    // Don't vertically centre, as Greenwich #site-header
+    // includes the page title and breadcrumbs.
+    top: 0;
+    transform: none;
+
+    // Instead, just set a height equal to the height of #site-logo,
+    // and rely on the vertical centering of the background-image
+    padding-top: 60px;
+}
+
+html.js-nav-open #nav-link {
+    @include svg-background-image("/cobrands/greenwich/images/menu-close");
+    background-size: 20px 20px;
+}
+
+.main-menu-container {
+    background: $greenwich_dark_grey;
+    color: $contrast_text;
+    padding: 5px 0;
+}
+
+body.mappage,
+body.authpage,
+body.twothirdswidthpage,
+body.alertpage {
+    .page-header-container,
+    .fms-menu-container {
+        display: none;
+    }
+}
+
+body.twothirdswidthpage {
+    .sticky-sidebar {
+        .plain-list {
+            padding: 10px 0 0 0;
+        }
+    }
+}
+
+.item-list--reports__item,
+#front-main #postcodeForm {
+    background-color: $greenwich_light_grey;
+}
+
+#front-main {
+    text-align: left;
+}
+
+#front-main #postcodeForm {
+    margin-top: 1em;
+    div {
+        input#sub {
+            background: $greenwich_red;
+        }
+    }
+}
+
+label[for="pc"] {
+    color: $greenwich_red;
+    text-align: left;
+}
+
+#front_stats {
+    color: $nav_colour;
+}
+
+#greenwich-menu-desktop,
+#fms-menu-desktop,
+#greenwich-breadcrumb {
+    display: none;
+}
+
+footer {
+    ul li {
+        list-style: none;
+        a {
+            color: $primary_text;
+            text-decoration: underline;
+        }
+    }
+
+    hr {
+        padding: 0;
+        margin: 0 -16px;
+        height: 4px;
+        background-color: $greenwich_red;
+        border: none;
+    }
+}
+
+h1,
+h2 {
+    font-weight: 700;
+    line-height: 1.3;
+}
+
+button,
+.btn,
+.green-btn {
+    border: none;
+    color: white !important;
+    background: $greenwich_red;
+
+    &:hover {
+        border: none;
+        text-decoration: underline;
+        color: white !important;
+        background: mix($greenwich_red, white, 85%);
+    }
+}
+
+// Report page
+form#form_update_form {
+    fieldset {
+        div {
+            button.btn {
+                color: white !important;
+            }
+        }
+    }
+}
+
+// Sign in page
+form {
+    fieldset {
+        #form_sign_in {
+            p {
+                input.fake-link {
+                    color: $primary_text;
+                    &:hover {
+                        text-decoration: underline;
+                    }
+                    &:visited {
+                        color: $links_visited;
+                    }
+                }
+            }
+        }
+    }
+}

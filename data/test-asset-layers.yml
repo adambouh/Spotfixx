@@ -1,0 +1,328 @@
+bathnes:
+  - http_options:
+      url: "https://data.bathnes.gov.uk/geoserver/fms/ows"
+      params:
+        mapsource: "BathNES/WFS"
+        SERVICE: "WFS"
+        VERSION: "1.0.0"
+        REQUEST: "GetFeature"
+        TYPENAME: ""
+        SRSNAME: "urn:ogc:def:crs:EPSG::27700"
+        outputFormat: 'application/json'
+    format_class: OpenLayers.Format.GeoJSON
+    format_options: { ignoreExtraDims: 1 }
+    asset_category: ""
+    asset_item: "asset"
+    asset_type: 'spot'
+    max_resolution: 4.777314267158508
+    asset_id_field: 'feature_no'
+    attributes: ~
+    geometryName: 'msGeometry'
+    body: "Bath and North East Somerset Council"
+    srsName: "EPSG:27700"
+  - http_options:
+      params:
+        TYPENAME: "fms:ParksOpenSpacesAssets"
+    asset_category: [ 'Abandoned vehicles', 'Dead animals', 'Dog fouling', 'Fly-tipping', 'Graffiti', 'Excessive or dangerous littering', 'Needles', 'Play area safety issue', 'Damage to bins, benches, and infrastructure', 'Allotment issue', 'Trees and woodland', 'Obstructive vegetation' ]
+    asset_item: "park"
+    disable_pin_snapping: true
+    stylemap: fixmystreet.assets.stylemap_invisible
+    attributes:
+      asset_details: fixmystreet.assets.banes.park_asset_details
+    filter_key: 'category'
+    filter_value: [ 'Flower Beds', 'Grass', 'Hard', 'Hedgerow', 'Path', 'Pitch', 'Seats' ]
+    name: "Parks and Grounds"
+  - http_options:
+      params:
+        TYPENAME: "fms:curo_land_registry"
+    asset_type: 'area'
+    stylemap: fixmystreet.assets.stylemap_invisible
+    non_interactive: true
+    always_visible: true
+    all_categories: true
+    nearest_radius: 0.1
+    road: true
+    no_asset_msg_id: '#js-curo-group-restriction'
+    actions:
+      found: fixmystreet.assets.banes.curo_found
+      not_found: fixmystreet.assets.banes.curo_not_found
+brent:
+  - http_wfs_url: "https://tilma.staging.mysociety.org/mapserver/brent"
+    max_resolution: 4.777314267158508
+    geometryName: 'msGeometry'
+    srsName: "EPSG:3857"
+    body: "Brent Council"
+  - wfs_feature: "Housing"
+    asset_type: 'area'
+    stylemap: 'fixmystreet.assets.stylemap_invisible'
+    nearest_radius: '0.1'
+    always_visible: 1
+    non_interactive: 1
+    all_categories: 1
+    no_asset_msg_id: '#js-brent-tenant-services'
+    road: 1
+    actions:
+      found: "fixmystreet.assets.brent.found"
+      not_found: "fixmystreet.assets.brent.not_found"
+  - wfs_feature: "Highways"
+    asset_type: 'area'
+    stylemap: 'fixmystreet.assets.stylemap_invisible'
+    nearest_radius: '0.1'
+    non_interactive: 1
+    asset_category: [ 'Pavement damage', 'Grass verges / shrub beds - littering' ]
+    no_asset_msg_id: '#js-brent-road-services'
+    road: 1
+    actions:
+     found: "fixmystreet.assets.brent.found_filter"
+     not_found: "fixmystreet.assets.brent.not_found_filter"
+  - wfs_feature: "Parks_and_Open_Spaces"
+    asset_type: 'area'
+    stylemap: 'fixmystreet.assets.stylemap_invisible'
+    nearest_radius: '0.1'
+    non_interactive: 1
+    asset_category: [ 'Grass verges / shrub beds - littering' ]
+    no_asset_msg_id: '#js-brent-park-services'
+    road: 1
+    actions:
+     found: "fixmystreet.assets.brent.found_filter"
+     not_found: "fixmystreet.assets.brent.not_found_filter"
+bromley:
+  - http_wfs_url: "https://tilma.staging.mysociety.org/mapserver/bromley_wfs"
+    asset_type: 'spot'
+    max_resolution: 4.777314267158508
+    asset_id_field: 'CENTRAL_AS'
+    geometryName: 'msGeometry'
+    srsName: "EPSG:3857"
+    body: "Bromley Council"
+  - wfs_feature: "Streetlights"
+    asset_id_field: 'FEATURE_ID'
+    attributes:
+      feature_id: 'FEATURE_ID'
+    asset_category: ["Lamp Column Damaged", "Light Not Working", "Light On All Day", "Light blocked by vegetation"]
+    asset_item: 'street light'
+  - wfs_feature: "PROW"
+    stylemap: 'fixmystreet.assets.bromley.prow_stylemap'
+    always_visible: true
+    non_interactive: true
+    road: true
+    all_categories: true
+    usrn:
+      attribute: 'PROW_REFER'
+      field: 'prow_reference'
+buckinghamshire:
+  - - name: 'default'
+      http_wfs_url: "https://tilma.staging.mysociety.org/mapserver/bucks"
+      asset_type: 'spot'
+      max_resolution: 4.777314267158508
+      asset_id_field: 'central_as'
+      attributes:
+        central_asset_id: 'central_as'
+        site_code: 'site_code'
+      geometryName: 'msGeometry'
+      srsName: "EPSG:27700"
+      body: "Buckinghamshire Council"
+  - wfs_feature: "Whole_Street"
+    propertyNames: ['msGeometry', 'site_code', 'feature_ty']
+    stylemap: fixmystreet.assets.buckinghamshire.street_stylemap
+    non_interactive: true
+    road: true
+    asset_item: 'road'
+    asset_type: 'road'
+    asset_group: [ 'Drainage issues', 'Flytipping', 'Roads & Pavements', 'Salt & Gritting', 'Street Lights', 'Street Signs', 'Traffic Lights and crossings', 'Trees and vegetation', 'Trees', 'Grass, hedges and weeds' ]
+    actions:
+      found: fixmystreet.assets.buckinghamshire.street_found
+      not_found: fixmystreet.assets.buckinghamshire.street_not_found
+    no_asset_msg_id: '#js-not-a-road'
+    no_asset_msgs_class: '.js-roads-bucks'
+    usrn:
+      attribute: 'site_code'
+      field: 'site_code'
+    filter_key: 'feature_ty'
+    filter_value: fixmystreet.assets.buckinghamshire.types_to_show
+  - wfs_feature: "WinterRoutes"
+    asset_category: "Snow and ice problem/winter salting"
+    asset_item: "road"
+    asset_type: "road"
+    non_interactive: true
+    road: true
+    actions:
+      found: fixmystreet.assets.buckinghamshire.winter_found
+      not_found: fixmystreet.assets.buckinghamshire.winter_not_found
+  - http_wfs_url: 'https://maps.buckscc.gov.uk/arcgis/services/Transport/OS_Highways_Speed/MapServer/WFSServer'
+    wfs_feature: "OS_Highways_Speed:CORPGIS.CORPORATE.OS_Highways_Speed"
+    propertyNames: ['speed', 'shape']
+    actions:
+      found: fixmystreet.assets.buckinghamshire.speed_found
+      not_found: fixmystreet.assets.buckinghamshire.speed_not_found
+    no_asset_msg_id: '#js-not-a-road'
+    asset_category: ["Grass cutting", "Hedge problem", "Dirty signs"]
+    non_interactive: true
+    road: true
+    asset_item: 'road'
+    asset_type: 'road'
+    stylemap: fixmystreet.assets.stylemap_invisible
+    # Want to use this for parish categories as well as Bucks, so skip body checks.
+    body: ~
+lincolnshire:
+  - wfs_url: "https://tilma.staging.mysociety.org/mapserver/lincs"
+    geometryName: 'msGeometry'
+    srsName: "EPSG:3857"
+    body: "Lincolnshire County Council"
+  - wfs_feature: "Carriageway"
+    asset_category: [ "Damaged/missing cats eye", "Pothole on road/cycleway" ]
+    asset_item: 'road'
+    asset_item_message: ''
+    disable_pin_snapping: true
+    stylemap: 'fixmystreet.assets.stylemap_invisible'
+northamptonshire:
+  - wfs_url: "https://tilma.staging.mysociety.org/mapserver/northamptonshire"
+    geometryName: 'msGeometry'
+    srsName: "EPSG:3857"
+    body: "Northamptonshire Highways"
+    attributes:
+      asset_resource_id: "asset_id"
+    select_action: true
+    actions:
+      asset_found: fixmystreet.assets.northamptonshire.asset_found
+      asset_not_found: fixmystreet.assets.northamptonshire.asset_not_found
+    class: OpenLayers.Layer.VectorAssetMove
+  - asset_category: [ "Shelter Damaged", "Sign/Pole Damaged" ]
+    asset_item: "bus stop"
+    wfs_feature: "Bus_Stop"
+oxfordshire:
+  - - name: 'alloy'
+      format_class: OpenLayers.Format.GeoJSON
+      srsName: "EPSG:4326"
+      class: OpenLayers.Layer.VectorAssetMove
+      body: "Oxfordshire County Council"
+      attributes:
+        # feature_id
+        unit_number: "title"
+        unit_type: "unit_type"
+        asset_resource_id: "itemId"
+      select_action: true
+      feature_code: 'title'
+      asset_id_field: 'itemId'
+      construct_selected_asset_message: fixmystreet.assets.oxfordshire.light_construct_selected_asset_message
+      actions:
+        asset_found: fixmystreet.assets.oxfordshire.light_asset_found
+        asset_not_found: fixmystreet.assets.oxfordshire.light_asset_not_found
+  - template: 'alloy'
+    http_options:
+      url: "https://tilma.staging.mysociety.org/alloy/layer.php"
+      params:
+        url: "https://oxfordshire.staging"
+        layer: designs_streetLights
+    stylemap: fixmystreet.assets.oxfordshire.streetlight_stylemap
+    asset_category: [ "Lamp Out of Light" ]
+    max_resolution: 1.194328566789627
+    asset_item: "street light"
+    asset_type: "spot"
+peterborough:
+  - - name: 'default'
+      max_resolution: 4.777314267158508
+      srsName: "EPSG:3857"
+      body: "Peterborough City Council"
+    - name: 'tilma'
+      template: 'default'
+      http_wfs_url: "https://tilma.staging.mysociety.org/mapserver/peterborough"
+      geometryName: 'msGeometry'
+    - name: 'arcgis'
+      template: 'default'
+      protocol_class: OpenLayers.Protocol.ArcgisHTTP
+      format_class: OpenLayers.Format.GeoJSON
+      http_options:
+        params:
+          inSR: '3857'
+          outSR: '3857'
+          f: 'geojson'
+      geometryName: 'SHAPE'
+    - name: 'trees'
+      template: 'tilma'
+      class: OpenLayers.Layer.VectorAssetMove
+      select_action: true
+      actions:
+        asset_found: fixmystreet.message_controller.asset_found
+        asset_not_found: fixmystreet.message_controller.asset_not_found
+      attributes:
+        tree_code: 'TREE_CODE'
+      asset_id_field: 'TREE_CODE'
+      asset_group: 'Trees'
+      relevant: fixmystreet.assets.peterborough.trees_relevant
+    - name: 'lights'
+      template: 'tilma'
+      wfs_feature: "StreetLights"
+      asset_id_field: 'UNITID'
+      asset_type: 'spot'
+      asset_item: 'light'
+    - name: 'flytipping'
+      template: 'arcgis'
+      http_options:
+        params:
+          inSR: '3857'
+          outSR: '3857'
+          f: 'geojson'
+          outFields: ''
+      nearest_radius: 0.01
+      stylemap: fixmystreet.assets.stylemap_invisible
+      asset_category: ['General fly tipping', 'Hazardous fly tipping', 'Offensive graffiti', 'Non offensive graffiti', 'Offensive graffiti - STAFF ONLY' ]
+      non_interactive: true
+      road: true
+      asset_item: 'road'
+      asset_type: 'road'
+  - template: 'trees'
+    wfs_feature: "tree_points"
+    asset_type: 'spot'
+    asset_item: 'tree'
+  - template: 'lights'
+    class: OpenLayers.Layer.VectorAssetMove
+    stylemap: fixmystreet.assets.peterborough.streetlight_stylemap
+    feature_code: 'UNITNO'
+    attributes:
+      asset_details: fixmystreet.assets.peterborough.lighting_asset_details
+    asset_group: 'Street lighting'
+    asset_category: 'Lighting enquiry'
+    relevant: fixmystreet.assets.peterborough.lighting_relevant
+    select_action: true
+    actions:
+      asset_found: fixmystreet.assets.peterborough.lighting_asset_found
+      asset_not_found: fixmystreet.assets.peterborough.lighting_asset_not_found
+  # PCC Property Combined
+  - template: 'flytipping'
+    http_options:
+      url: 'https://tilma.staging.mysociety.org/resource-proxy/proxy.php?https://peterborough.assets/4/query?'
+    actions:
+      found: fixmystreet.assets.peterborough.flytipping_pcc_found
+      not_found: fixmystreet.assets.peterborough.flytipping_pcc_not_found
+  # PCC Property Leased Out NOT Responsible
+  - template: 'flytipping'
+    http_options:
+      url: 'https://tilma.staging.mysociety.org/resource-proxy/proxy.php?https://peterborough.assets/3/query?'
+    actions:
+      found: fixmystreet.assets.peterborough.flytipping_leased_found
+shropshire:
+  - http_wfs_url: "https://tilma.mysociety.org/mapserver/shropshire"
+    asset_type: 'spot'
+    asset_id_field: 'CentralAssetId'
+    attributes:
+      central_asset_id: 'CentralAssetId'
+    geometryName: 'msGeometry'
+    srsName: "EPSG:27700"
+    body: "Shropshire Council"
+  - wfs_feature: "Street_Gazetteer"
+    stylemap: 'fixmystreet.assets.shropshire.street_stylemap'
+    usrn:
+      attribute: 'USRN'
+      field: 'site_code'
+    road: true
+    asset_item: 'road'
+    asset_type: 'road'
+    no_asset_msg_id: '#js-not-a-road'
+    no_asset_msgs_class: '.js-roads-shropshire'
+    always_visible: true
+    non_interactive: true
+    all_categories: true
+    actions:
+      found: 'fixmystreet.assets.shropshire.street_found'
+      not_found: 'fixmystreet.assets.shropshire.street_not_found'
+

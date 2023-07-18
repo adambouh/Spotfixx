@@ -1,0 +1,98 @@
+  [% SET name_of_location = pretty_pc || loc('this location') %]
+
+  <input type="hidden" name="token" value="[% csrf_token %]">
+  <input type="hidden" name="type" value="local">
+  <input type="hidden" name="pc" value="[% pc | html %]">
+  <input type="hidden" name="latitude" value="[% latitude | html %]">
+  <input type="hidden" name="longitude" value="[% longitude | html %]">
+
+<fieldset>
+ <legend>
+  <h2>[% loc('Which problems do you want alerts about?') %]</h2>
+ </legend>
+
+  [% INCLUDE 'errors.html' %]
+
+  [% IF reported_to_options %]
+    <p>
+        [% tprintf(loc('Reports near %s are sent to different councils, depending on the type of problem.'), name_of_location) %]
+    </p>
+    <p>
+        [% loc('You can choose to subscribe to all problems reported in an area, or reports based on their destination.') %]
+    </p>
+    <div class="alerts__columns">
+        <div>
+    <h3>[% loc('Problems in an area') %]</h3>
+  [% END %]
+
+  <p id="rss_local">
+    <label class="label-containing-checkbox" for="[% rss_feed_id %]">
+      <input type="radio" name="feed" id="[% rss_feed_id %]" value="[% rss_feed_id %]"[% IF rss_feed_id == selected_feed || selected_feed == '' %] checked[% END %]>
+     [% IF c.cobrand.moniker == 'cheshireeast' %]
+      [% tprintf( 'Reported problems within %.1fkm of %s', population_radius, name_of_location ) %]
+     [% ELSE %]
+      [% tprintf( loc('Problems within %.1fkm of %s'), population_radius, name_of_location ) %]
+     [% END %]
+      [% loc('(covers roughly 200,000 people)') %]
+    </label>
+  </p>
+
+  <p id="rss_local_alt">
+    <label class="inline" for="distance">[% loc('Or specify a different radius distance:') %]</label>
+    <input class="form-control" name="distance" id="distance" type="text" inputmode="numeric" pattern="[0-9]*"> km
+    <a href="[% rss_feed_uri %]" class="alerts-rss-link js-alert-local">
+      <img src="/i/feed.png" width="16" height="16" title="[% loc('RSS feed of nearby problems') %]" alt="[% loc('RSS feed') %]">
+    </a>
+  </p>
+
+  [% FOREACH option IN options %]
+    <p>
+      <a href="[% option.uri %]" class="alerts-rss-link">
+        <img src="/i/feed.png" width="16" height="16" title="[% option.rss_text %]" alt="[% loc('RSS feed') %]">
+      </a>
+      <label class="label-containing-checkbox" for="[% option.id %]">
+        <input type="radio" name="feed" id="[% option.id %]" value="[% option.id %]"[% IF option.id == selected_feed %] checked[% END %]>
+        [% option.text %]
+      </label>
+    </p>
+  [% END %]
+
+  [% IF reported_to_options %]
+        </div>
+        <div>
+
+    <h3>[% loc('Reports by destination') %]</h3>
+
+    [% FOREACH option IN reported_to_options %]
+      <p>
+        <a href="[% option.uri %]" class="alerts-rss-link">
+          <img src="/i/feed.png" width="16" height="16" title="[% option.rss_text %]" alt="[% loc('RSS feed') %]">
+        </a>
+        <label class="label-containing-checkbox" for="[% option.id %]">
+          <input type="radio" name="feed" id="[% option.id %]" value="[% option.id %]"[% IF option.id == selected_feed %] checked[% END %]>
+          [% option.text %]
+        </label>
+      </p>
+    [% END %]
+        </div>
+    </div>
+  [% END %]
+</fieldset>
+
+  [% PROCESS 'auth/form_extra.html' %]
+
+  <div class="alerts__cta-box">
+    <h3>[% loc('Subscribe by email') %]</h3>
+    [% UNLESS c.user_exists AND c.user.email_verified %]
+      <label for="rznvy">[% loc('Email address') %]</label>
+      <div class="form-txt-submit-box">
+        <input class="form-control" type="text" id="rznvy" name="rznvy" value="[% rznvy %]">
+        <input id="alert_email_button" class="btn-primary" type="submit" name="alert" value="[% loc('Subscribe') %]">
+      </div>
+    [% ELSE %]
+      <input id="alert_email_button" class="btn-primary" type="submit" name="alert" value="[% loc('Subscribe') %]">
+    [% END %]
+  </div>
+
+  <h3>[% loc('Or subscribe by RSS') %]</h3>
+  <input id="alert_rss_button" class="btn" type="submit" name="rss" value="[% loc('Give me an RSS feed') %]">

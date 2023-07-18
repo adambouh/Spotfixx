@@ -1,0 +1,86 @@
+#!/usr/bin/env perl
+#
+# send-daemon
+# FixMyStreet daemon for sending reports and updates.
+
+use strict;
+use warnings;
+use v5.14;
+
+BEGIN {
+    use File::Basename qw(dirname);
+    use File::Spec;
+    my $d = dirname(File::Spec->rel2abs($0));
+    require "$d/../setenv.pl";
+}
+
+use Getopt::Long::Descriptive;
+use Parallel::ForkManager;
+use CronFns;
+use FixMyStreet;
+use FixMyStreet::DB;
+use FixMyStreet::Script::SendDaemon;
+
+my ($opts, $usage) = describe_options(
+    '%c %o',
+    ['verbose|v+', 'more verbose output'],
+    ['nomail', 'do not send any email, print instead'],
+    ['debug', 'always try and send reports (no back-off skipping)'],
+    ['help|h', "print usage message and exit" ],
+    [],
+    ['Send a USR1 signal to the parent to cycle through verbose levels.'],
+);
+$usage->die if $opts->help;
+FixMyStreet::Script::SendDaemon::setverboselevel($opts->verbose);
+
+my $db = FixMyStreet::DB->schema->storage;
+
+my %children;
+
+my $exit = 0;
+$SIG{TERM} = $SIG{INT} = sub { $exit = 1; };
+
+$SIG{USR1} = sub {
+    kill 'USR1', keys %children;
+    FixMyStreet::Script::SendDaemon::changeverboselevel();
+};
+
+my $procs = FixMyStreet->config('QUEUE_DAEMON_PROCESSES') || 4;
+my $pm = Parallel::ForkManager->new($procs);
+
+$pm->run_on_start(sub {
+    my $pid = shift;
+    $children{$pid} = time();
+});
+$pm->run_on_finish(sub {
+    my $pid = shift;
+    if ($children{$pid} > time() - 10) {
+        # It didn't live very long, let's wait a bit
+        sleep(5);
+    }
+    delete $children{$pid};
+});
+
+# The parent loop
+while (!$exit) {
+    while (keys %children < $procs) {
+        $pm->start and next;
+        srand;
+        $SIG{USR1} = sub { FixMyStreet::Script::SendDaemon::changeverboselevel(); };
+        while (!$exit) {
+            $0 = "fmsd (running queue)";
+            $db->txn_do(sub { FixMyStreet::Script::SendDaemon::look_for_report($opts) });
+            $db->txn_do(sub { FixMyStreet::Script::SendDaemon::look_for_update($opts) });
+            $0 = "fmsd";
+            sleep(5 + rand(10));
+        }
+        $pm->finish;
+    }
+
+    if (!keys %children) { # Very high load, something wrong
+        sleep(10);
+        next;
+    }
+
+    $pm->wait_for_available_procs;
+}

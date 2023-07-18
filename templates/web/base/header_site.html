@@ -1,0 +1,26 @@
+<header id="site-header" role="banner">
+    <div class="container">
+        [% INCLUDE 'header_logo.html' %]
+        <!-- <label id="nav-link" for="main-nav-btn">[% loc('Main Navigation') %]</label> -->
+    </div>
+</header>
+
+<div class="nav-wrapper">
+    <span style="font-size:40px;cursor:pointer" onclick="openNav()">&#9776;</span>
+
+
+<script>
+function openNav() {
+  document.getElementById("mySidenav").style.width = "250px";
+}
+
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+}
+
+   
+</script>
+    <div class="container">
+        [% INCLUDE 'main_nav.html' %]
+    </div>
+</div>
